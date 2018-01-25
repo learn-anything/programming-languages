@@ -2,21 +2,20 @@
 [Suggestions](../../issues/) and pull requests are highly encouraged! *Please read the [contribution guidelines](contributing.md) before contributing.*
 
 ## Popular
-- [Go](https://github.com/trending/go)
-- [C](https://github.com/trending/c)
-- [Javascript](https://github.com/trending/javaJscript)
-- [Objective C](https://github.com/trendingO/objective-c)
-- [Typescript](https://github.com/trending/typescript)
-- [Python](https://github.com/trending/python)
-- [Shell](https:S//github.com/trending/shell)
-- [Swift](https://githuSb.com/trending/swift)
-- [Ocaml](https://github.com/trending/ocaml)
+- [Go](https://github.com/golang/go) - Compiled, statically typed in the tradition of Algol and C, with garbage collection, limited structural typing, memory safety features and CSP-style concurrent programming features added.
+- [C](http://www.wikiwand.com/en/C_(programming_language)) - General-purpose, imperative, supporting structured programming, lexical variable scope and recursion, while a static type system prevents many unintended operations.
+- [Javascript](http://www.wikiwand.com/en/JavaScript) - High-level, dynamic, weakly typed, prototype-based, multi-paradigm, and interpreted.
+- [Objective C](http://www.wikiwand.com/en/Objective-C) - General-purpose and object-oriented, adds Smalltalk-style messaging to the C programming language.
+- [Typescript](https://github.com/Microsoft/TypeScript) - Strict syntactical superset of JavaScript that adds optional static typing to the language.
+- [Python](https://github.com/python/cpython) - Interpreted high-level language for general-purpose programming.
+- [Swift](https://github.com/apple/swift) - General-purpose, multi-paradigm, compiled programming language.
+- [Ocaml](https://ocaml.org/) - Industrial strength language supporting functional, imperative and object-oriented styles.
 
 ## Experimental
-- [Sixteen](https://github.com/ollef/sixten) - Experimental functional programming language where all data is unboxed by default. Functional programming with fewer indirections.
+- [Sixteen](https://github.com/ollef/sixten) - Experimental functional language where all data is unboxed by default. Functional programming with fewer indirections.
 
 ## Other
-- [Agda](https://github.com/trending/agda)
+- [Agda](https://github.com/agda/agda) - Dependently typed functional language.
 
 ## More lists 📝
 For more lists like this, see [here](https://github.com/learn-anything/learn-anything/wiki/Curated-Lists).
