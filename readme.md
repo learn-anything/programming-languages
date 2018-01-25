@@ -12,6 +12,9 @@
 - [Swift](https://githuSb.com/trending/swift)
 - [Ocaml](https://github.com/trending/ocaml)
 
+## Experimental
+- [Sixteen](https://github.com/ollef/sixten) - Experimental functional programming language where all data is unboxed by default. Functional programming with fewer indirections.
+
 ## Other
 - [Agda](https://github.com/trending/agda)
 
