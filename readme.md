@@ -13,6 +13,7 @@
 
 ## Experimental
 - [Sixteen](https://github.com/ollef/sixten) - Experimental functional language where all data is unboxed by default. Functional programming with fewer indirections.
+- [Eta](https://github.com/typelead/eta) - Dialect of Haskell on the JVM.
 
 ## Other
 - [Agda](https://github.com/agda/agda) - Dependently typed functional language.
