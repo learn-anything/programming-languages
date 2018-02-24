@@ -9,6 +9,7 @@
 - [Typescript](https://github.com/Microsoft/TypeScript) - Strict syntactical superset of JavaScript that adds optional static typing to the language.
 - [Python](https://github.com/python/cpython) - Interpreted high-level language for general-purpose programming.
 - [Swift](https://github.com/apple/swift) - General-purpose, multi-paradigm, compiled programming language.
+- [Julia](https://github.com/JuliaLang/julia) - High-level, high-performance dynamic language for technical computing.
 
 ## Functional
 - [Ocaml](https://ocaml.org/) - Industrial strength language supporting functional, imperative and object-oriented styles.
