@@ -1,7 +1,7 @@
 # Interesting Programming Languages [![Lists](https://img.shields.io/badge/More%20Lists-📒-green.svg)](https://github.com/learn-anything/curated-lists#curated-lists)
 *Please read the [contribution guidelines](contributing.md/#contribution-guidelines) before contributing.*
 
-## Popular
+## Multi paradigm
 - [Go](https://github.com/golang/go) - Compiled, statically typed in the tradition of Algol and C, with garbage collection, limited structural typing, memory safety features and CSP-style concurrent programming features added.
 - [C](http://www.wikiwand.com/en/C_(programming_language)) - General-purpose, imperative, supporting structured programming, lexical variable scope and recursion, while a static type system prevents many unintended operations.
 - [Javascript](http://www.wikiwand.com/en/JavaScript) - High-level, dynamic, weakly typed, prototype-based, multi-paradigm, and interpreted.
@@ -9,14 +9,13 @@
 - [Typescript](https://github.com/Microsoft/TypeScript) - Strict syntactical superset of JavaScript that adds optional static typing to the language.
 - [Python](https://github.com/python/cpython) - Interpreted high-level language for general-purpose programming.
 - [Swift](https://github.com/apple/swift) - General-purpose, multi-paradigm, compiled programming language.
+- [PicoLisp](https://picolisp.com/wiki/) - Simple and lightweight and encourages clean, concise code.
+
+## Functional
 - [Ocaml](https://ocaml.org/) - Industrial strength language supporting functional, imperative and object-oriented styles.
-
-## Experimental
-- [Sixteen](https://github.com/ollef/sixten) - Experimental functional language where all data is unboxed by default. Functional programming with fewer indirections.
-- [Eta](https://github.com/typelead/eta) - Dialect of Haskell on the JVM.
-
-## Other
 - [Agda](https://github.com/agda/agda) - Dependently typed functional language.
+- [Eta](https://github.com/typelead/eta) - Dialect of Haskell on the JVM.
+- [Sixteen](https://github.com/ollef/sixten) - Experimental functional language where all data is unboxed by default. Functional programming with fewer indirections.
 
 ## Contributing
 See [contribution guidelines](contributing.md/#contribution-guidelines).
