@@ -9,13 +9,17 @@
 - [Typescript](https://github.com/Microsoft/TypeScript) - Strict syntactical superset of JavaScript that adds optional static typing to the language.
 - [Python](https://github.com/python/cpython) - Interpreted high-level language for general-purpose programming.
 - [Swift](https://github.com/apple/swift) - General-purpose, multi-paradigm, compiled programming language.
-- [PicoLisp](https://picolisp.com/wiki/) - Simple and lightweight and encourages clean, concise code.
 
 ## Functional
 - [Ocaml](https://ocaml.org/) - Industrial strength language supporting functional, imperative and object-oriented styles.
 - [Agda](https://github.com/agda/agda) - Dependently typed functional language.
 - [Eta](https://github.com/typelead/eta) - Dialect of Haskell on the JVM.
 - [Sixteen](https://github.com/ollef/sixten) - Experimental functional language where all data is unboxed by default. Functional programming with fewer indirections.
+
+## Lisp
+- [PicoLisp](https://picolisp.com/wiki/) - Simple and lightweight and encourages clean, concise code.
+- [Clojure](https://github.com/JeffBezanson/femtolisp) - Dynamic, general-purpose, combining the approachability and interactive development of a scripting language with an efficient and robust infrastructure for multithreaded programming.
+- [femtolisp](https://github.com/JeffBezanson/femtolisp) - Lightweight, robust, scheme-like lisp implementation.
 
 ## Contributing
 See [contribution guidelines](contributing.md/#contribution-guidelines).
