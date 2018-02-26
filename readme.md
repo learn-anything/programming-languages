@@ -23,7 +23,7 @@
 - [femtolisp](https://github.com/JeffBezanson/femtolisp) - Lightweight, robust, scheme-like lisp implementation.
 
 ## Contributing
-See [contribution guidelines](contributing.md#contribution-guidelines#readme).
+See [contribution guidelines](contributing.md#readme).
 
 ## More lists 📝
 For more lists like this, see [here](https://github.com/learn-anything/curated-lists#readme).
