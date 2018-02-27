@@ -16,6 +16,7 @@
 - [Agda](https://github.com/agda/agda) - Dependently typed functional language.
 - [Eta](https://github.com/typelead/eta) - Dialect of Haskell on the JVM.
 - [Sixteen](https://github.com/ollef/sixten) - Experimental functional language where all data is unboxed by default. Functional programming with fewer indirections.
+- [TiML](http://adam.chlipala.net/papers/TimlOOPSLA17/) - Functional Language for Practical Complexity Analysis with Invariants.
 
 ## Lisp
 - [PicoLisp](https://picolisp.com/wiki/) - Simple and lightweight and encourages clean, concise code.
