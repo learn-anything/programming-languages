@@ -24,6 +24,9 @@
 - [Clojure](https://github.com/JeffBezanson/femtolisp) - Dynamic, general-purpose, combining the approachability and interactive development of a scripting language with an efficient and robust infrastructure for multithreaded programming.
 - [femtolisp](https://github.com/JeffBezanson/femtolisp) - Lightweight, robust, scheme-like lisp implementation.
 
+## Related
+- [List of programming languages that are actively developed on GitHub](https://github.com/collections/programming-languages)
+
 ## Contributing
 See [contribution guidelines](contributing.md#readme).
 
