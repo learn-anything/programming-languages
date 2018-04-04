@@ -18,6 +18,7 @@
 - [Sixteen](https://github.com/ollef/sixten) - Experimental functional language where all data is unboxed by default. Functional programming with fewer indirections.
 - [TiML](http://adam.chlipala.net/papers/TimlOOPSLA17/) - Functional Language for Practical Complexity Analysis with Invariants.
 - [Eff](http://www.eff-lang.org/) - Functional language with handlers of not only exceptions, but also of other computational effects such as state or I/O.
+- [Eve](https://github.com/witheve/Eve) - Programming language based on years of research into building a human-first programming platform.
 
 ## Lisp
 - [PicoLisp](https://picolisp.com/wiki/) - Simple and lightweight and encourages clean, concise code.
