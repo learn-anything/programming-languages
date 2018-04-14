@@ -23,6 +23,7 @@
 ## Lisp
 - [PicoLisp](https://picolisp.com/wiki/) - Simple and lightweight and encourages clean, concise code.
 - [Clojure](https://github.com/JeffBezanson/femtolisp) - Dynamic, general-purpose, combining the approachability and interactive development of a scripting language with an efficient and robust infrastructure for multithreaded programming.
+- [Fennel](https://github.com/bakpakin/Fennel) - Lua Lisp Language.
 - [femtolisp](https://github.com/JeffBezanson/femtolisp) - Lightweight, robust, scheme-like lisp implementation.
 
 ## Related
