@@ -26,6 +26,9 @@
 - [Fennel](https://github.com/bakpakin/Fennel) - Lua Lisp Language.
 - [femtolisp](https://github.com/JeffBezanson/femtolisp) - Lightweight, robust, scheme-like lisp implementation.
 
+## Other
+- [RaptorJIT](https://github.com/raptorjit/raptorjit) - Dynamic language for system programming (LuaJIT fork).
+
 ## Related
 - [List of programming languages that are actively developed on GitHub](https://github.com/collections/programming-languages)
 
