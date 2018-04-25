@@ -20,6 +20,7 @@
 - [Eff](http://www.eff-lang.org/) - Functional language with handlers of not only exceptions, but also of other computational effects such as state or I/O.
 - [Eve](https://github.com/witheve/Eve) - Programming language based on years of research into building a human-first programming platform.
 - [Futhark](https://github.com/diku-dk/futhark) - Purely functional data-parallel programming language. Its optimising compiler is able to compile it to typically very performant GPU code.
+- [Accelerate](https://github.com/AccelerateHS/accelerate) - Embedded language for high-performance array computations.
 
 ## Lisp
 - [PicoLisp](https://picolisp.com/wiki/) - Simple and lightweight and encourages clean, concise code.
