@@ -23,6 +23,7 @@
 - [Accelerate](https://github.com/AccelerateHS/accelerate) - Embedded language for high-performance array computations.
 - [Unison](https://github.com/unisonweb/unison) - Modern, statically-typed purely functional language, similar to Haskell, but with a unique ability to describe entire distributed systems with a single program.
 - [Haskell](https://www.haskell.org/) - Advanced, purely functional programming language.
+- [F\*](https://fstar-lang.org/#introduction) - General-purpose functional programming language with effects aimed at program verification.
 
 ## Lisp
 - [PicoLisp](https://picolisp.com/wiki/) - Simple and lightweight and encourages clean, concise code.
