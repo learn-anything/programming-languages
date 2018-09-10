@@ -1,5 +1,5 @@
 # Awesome Programming Languages [![Lists](https://img.shields.io/badge/More%20Lists-📔-blue.svg)](https://github.com/learn-anything/curated-lists#readme)
-*Please read the [contribution guidelines](contributing.md#readme) before contributing.*
+*Please read the [contribution guidelines](CONTRIBUTING.md#readme) before contributing.*
 
 ## Multi paradigm
 - [Go](https://github.com/golang/go) - Compiled, statically typed in the tradition of Algol and C, with garbage collection, limited structural typing, memory safety features and CSP-style concurrent programming features added.
@@ -39,7 +39,7 @@
 - [List of programming languages that are actively developed on GitHub](https://github.com/collections/programming-languages)
 
 ## Contributing
-See [contribution guidelines](contributing.md#readme).
+See [contribution guidelines](CONTRIBUTING.md#readme).
 
 ## More lists 📝
 For more lists like this, see [here](https://github.com/learn-anything/curated-lists#readme).
