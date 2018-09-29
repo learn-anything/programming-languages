@@ -4,9 +4,9 @@
 ## Multi paradigm
 - [Go](https://github.com/golang/go) - Compiled, statically typed in the tradition of Algol and C, with garbage collection, limited structural typing, memory safety features and CSP-style concurrent programming features added.
 - [C](http://www.wikiwand.com/en/C_(programming_language)) - General-purpose, imperative, supporting structured programming, lexical variable scope and recursion, while a static type system prevents many unintended operations.
-- [Javascript](http://www.wikiwand.com/en/JavaScript) - High-level, dynamic, weakly typed, prototype-based, multi-paradigm, and interpreted.
+- [JavaScript](http://www.wikiwand.com/en/JavaScript) - High-level, dynamic, weakly typed, prototype-based, multi-paradigm, and interpreted.
 - [Objective C](http://www.wikiwand.com/en/Objective-C) - General-purpose and object-oriented, adds Smalltalk-style messaging to the C programming language.
-- [Typescript](https://github.com/Microsoft/TypeScript) - Strict syntactical superset of JavaScript that adds optional static typing to the language.
+- [TypeScript](https://github.com/Microsoft/TypeScript) - Strict syntactical superset of JavaScript that adds optional static typing to the language.
 - [Python](https://github.com/python/cpython) - Interpreted high-level language for general-purpose programming.
 - [Swift](https://github.com/apple/swift) - General-purpose, multi-paradigm, compiled programming language.
 - [Julia](https://github.com/JuliaLang/julia) - High-level, high-performance dynamic language for technical computing.
