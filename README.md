@@ -38,7 +38,7 @@
 
 ## Multi paradigm
 
-- [C](http://www.wikiwand.com/en/C_(programming_language)) - General-purpose, imperative, supporting structured programming, lexical variable scope and recursion, while a static type system prevents many unintended operations.
+- [C](<http://www.wikiwand.com/en/C_(programming_language)>) - General-purpose, imperative, supporting structured programming, lexical variable scope and recursion, while a static type system prevents many unintended operations.
 - [Go](https://github.com/golang/go) - Compiled, statically typed in the tradition of Algol and C, with garbage collection, limited structural typing, memory safety features and CSP-style concurrent programming features added.
 - [JavaScript](http://www.wikiwand.com/en/JavaScript) - High-level, dynamic, weakly typed, prototype-based, multi-paradigm, and interpreted.
 - [Julia](https://github.com/JuliaLang/julia) - High-level, high-performance dynamic language for technical computing.
@@ -58,5 +58,5 @@
 
 ---
 
-[![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
 [![CC0](https://img.shields.io/badge/license-CC0-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
