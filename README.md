@@ -10,8 +10,8 @@
 - [Functional](#functional)
 - [Lisp](#lisp)
 - [Multi paradigm](#multi-paradigm)
-- [Related](#related)
 - [Other](#other)
+- [Related](#related)
 
 ---
 
@@ -33,9 +33,9 @@
 ## Lisp
 
 - [Clojure](https://github.com/JeffBezanson/femtolisp) - Dynamic, general-purpose, combining the approachability and interactive development of a scripting language with an efficient and robust infrastructure for multithreaded programming.
+- [femtolisp](https://github.com/JeffBezanson/femtolisp) - Lightweight, robust, scheme-like lisp implementation.
 - [Fennel](https://github.com/bakpakin/Fennel) - Lua Lisp Language.
 - [PicoLisp](https://picolisp.com/wiki/) - Simple and lightweight and encourages clean, concise code.
-- [femtolisp](https://github.com/JeffBezanson/femtolisp) - Lightweight, robust, scheme-like lisp implementation.
 
 ## Multi paradigm
 
@@ -48,14 +48,14 @@
 - [Swift](https://github.com/apple/swift) - General-purpose, multi-paradigm, compiled programming language.
 - [TypeScript](https://github.com/Microsoft/TypeScript) - Strict syntactical superset of JavaScript that adds optional static typing to the language.
 
-## Related
-
-- [List of programming languages that are actively developed on GitHub](https://github.com/collections/programming-languages)
-
 ## Other
 
 - [RaptorJIT](https://github.com/raptorjit/raptorjit) - Dynamic language for system programming (LuaJIT fork).
 - [Zig](https://github.com/zig-lang/zig) - Robust, optimal, and clear programming language.
+
+## Related
+
+- [List of programming languages that are actively developed on GitHub](https://github.com/collections/programming-languages)
 
 ---
 
