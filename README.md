@@ -41,6 +41,7 @@
 
 - [C](<http://www.wikiwand.com/en/C_(programming_language)>) - General-purpose, imperative, supporting structured programming, lexical variable scope and recursion, while a static type system prevents many unintended operations.
 - [Go](https://github.com/golang/go) - Compiled, statically typed in the tradition of Algol and C, with garbage collection, limited structural typing, memory safety features and CSP-style concurrent programming features added.
+- [Haxe](https://github.com/HaxeFoundation/haxe) - High-level and strictly-typed, cross-compiles to many different targets.
 - [JavaScript](http://www.wikiwand.com/en/JavaScript) - High-level, dynamic, weakly typed, prototype-based, multi-paradigm, and interpreted.
 - [Julia](https://github.com/JuliaLang/julia) - High-level, high-performance dynamic language for technical computing.
 - [Objective C](http://www.wikiwand.com/en/Objective-C) - General-purpose and object-oriented, adds Smalltalk-style messaging to the C programming language.
