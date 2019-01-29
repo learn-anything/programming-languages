@@ -19,6 +19,7 @@
 
 - [Accelerate](https://github.com/AccelerateHS/accelerate) - Embedded language for high-performance array computations.
 - [Agda](https://github.com/agda/agda) - Dependently typed functional language.
+- [Amulet](https://github.com/tmpim/amulet) - Simple functional programming language in the ML tradition, with support for higher-rank parametric polymorphic types and row-polymorphic records, pattern matching with algebraic data types, and tail recursion elimination.
 - [Eff](http://www.eff-lang.org/) - Functional language with handlers of not only exceptions, but also of other computational effects such as state or I/O.
 - [Eta](https://github.com/typelead/eta) - Dialect of Haskell on the JVM.
 - [Eve](https://github.com/witheve/Eve) - Programming language based on years of research into building a human-first programming platform.
