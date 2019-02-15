@@ -25,6 +25,7 @@
 - [Eta](https://github.com/typelead/eta) - Dialect of Haskell on the JVM.
 - [Eve](https://github.com/witheve/Eve) - Programming language based on years of research into building a human-first programming platform.
 - [F\*](https://fstar-lang.org/#introduction) - General-purpose functional programming language with effects aimed at program verification.
+- [Flix](https://github.com/flix/flix) - Statically typed functional- and logic programming language inspired by Scala, OCaml, F#, Haskell, and Datalog.
 - [Futhark](https://github.com/diku-dk/futhark) - Purely functional data-parallel programming language. Its optimising compiler is able to compile it to typically very performant GPU code.
 - [Haskell](https://www.haskell.org/) - Advanced, purely functional programming language.
 - [Ocaml](https://ocaml.org/) - Industrial strength language supporting functional, imperative and object-oriented styles.
