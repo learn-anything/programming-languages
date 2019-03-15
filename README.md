@@ -59,6 +59,7 @@
 - [RaptorJIT](https://github.com/raptorjit/raptorjit) - Dynamic language for system programming (LuaJIT fork).
 - [Zig](https://github.com/zig-lang/zig) - Robust, optimal, and clear programming language.
 - [Tengo](https://github.com/d5/tengo) - Fast script language for Go.
+- [Ciao](https://github.com/ciao-lang/ciao) - Programming language that builds up from a logic-based simple kernel, and is designed to be extensible and modular.
 
 ## Related
 
