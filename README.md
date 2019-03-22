@@ -41,6 +41,7 @@
 - [femtolisp](https://github.com/JeffBezanson/femtolisp) - Lightweight, robust, scheme-like lisp implementation.
 - [Fennel](https://github.com/bakpakin/Fennel) - Lua Lisp Language.
 - [PicoLisp](https://picolisp.com/wiki/) - Simple and lightweight and encourages clean, concise code.
+- [Janet](https://github.com/janet-lang/janet) - Functional and imperative programming language and bytecode interpreter.
 
 ## Multi paradigm
 
@@ -61,7 +62,6 @@
 - [Tengo](https://github.com/d5/tengo) - Fast script language for Go.
 - [Ciao](https://github.com/ciao-lang/ciao) - Programming language that builds up from a logic-based simple kernel, and is designed to be extensible and modular.
 - [V](https://vlang.io/) - Fast, safe, compiled language.
-- [Janet](https://github.com/janet-lang/janet) - Functional and imperative programming language and bytecode interpreter.
 
 ## Related
 
