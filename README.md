@@ -34,6 +34,7 @@
 - [Unison](https://github.com/unisonweb/unison) - Modern, statically-typed purely functional language, similar to Haskell, but with a unique ability to describe entire distributed systems with a single program.
 - [Expresso](https://github.com/willtim/Expresso) - Simple expressions language with polymorphic extensible row types.
 - [Bosatsu](https://github.com/johnynek/bosatsu) - Python-ish pure and total functional programming language.
+- [Silt](https://github.com/silt-lang/silt) - An in-progress fast, dependently typed, functional programming language implemented in Swift.
 
 ## Lisp
 
