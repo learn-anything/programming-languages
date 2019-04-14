@@ -35,6 +35,7 @@
 - [Expresso](https://github.com/willtim/Expresso) - Simple expressions language with polymorphic extensible row types.
 - [Bosatsu](https://github.com/johnynek/bosatsu) - Python-ish pure and total functional programming language.
 - [Silt](https://github.com/silt-lang/silt) - An in-progress fast, dependently typed, functional programming language implemented in Swift.
+- [Granule](https://github.com/granule-project/granule) - Statically typed functional language with graded modal types for fine-grained program reasoning via types.
 
 ## Lisp
 
