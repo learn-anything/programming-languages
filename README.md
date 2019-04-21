@@ -65,6 +65,7 @@
 - [Ciao](https://github.com/ciao-lang/ciao) - Programming language that builds up from a logic-based simple kernel, and is designed to be extensible and modular.
 - [V](https://vlang.io/) - Fast, safe, compiled language.
 - [Lobster](http://strlen.com/lobster/) - General purpose stand-alone programming language that comes with a built-in library suitable for making games and other graphical things.
+- [Bosque](https://github.com/Microsoft/BosqueLanguage) - Experiment in regularized design for a machine assisted rapid and reliable software development lifecycle.
 
 ## Related
 
