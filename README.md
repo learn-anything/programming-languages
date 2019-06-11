@@ -29,7 +29,7 @@
 - [Futhark](https://github.com/diku-dk/futhark) - Purely functional data-parallel programming language. Its optimising compiler is able to compile it to typically very performant GPU code.
 - [Haskell](https://www.haskell.org/) - Advanced, purely functional programming language.
 - [Ocaml](https://ocaml.org/) - Industrial strength language supporting functional, imperative and object-oriented styles.
-- [Sixteen](https://github.com/ollef/sixten) - Experimental functional language where all data is unboxed by default. Functional programming with fewer indirections.
+- [Sixten](https://github.com/ollef/sixten) - Experimental functional language where all data is unboxed by default. Functional programming with fewer indirections.
 - [TiML](http://adam.chlipala.net/papers/TimlOOPSLA17/) - Functional Language for Practical Complexity Analysis with Invariants.
 - [Unison](https://github.com/unisonweb/unison) - Modern, statically-typed purely functional language, similar to Haskell, but with a unique ability to describe entire distributed systems with a single program.
 - [Expresso](https://github.com/willtim/Expresso) - Simple expressions language with polymorphic extensible row types.
