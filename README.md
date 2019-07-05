@@ -37,6 +37,7 @@
 - [Silt](https://github.com/silt-lang/silt) - An in-progress fast, dependently typed, functional programming language implemented in Swift.
 - [Granule](https://github.com/granule-project/granule) - Statically typed functional language with graded modal types for fine-grained program reasoning via types.
 - [LinearML](https://github.com/pikatchu/LinearML) - Functional language for parallel programming.
+- [Koka](https://github.com/koka-lang/koka) - Function-oriented language with effect inference.
 
 ## Lisp
 
