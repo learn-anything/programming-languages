@@ -69,8 +69,9 @@
 - [V](https://vlang.io/) - Fast, safe, compiled language.
 - [Lobster](http://strlen.com/lobster/) - General purpose stand-alone programming language that comes with a built-in library suitable for making games and other graphical things.
 - [Bosque](https://github.com/Microsoft/BosqueLanguage) - Experiment in regularized design for a machine assisted rapid and reliable software development lifecycle.
-- [PowerShell](https://github.com/PowerShell/PowerShell) - Cross-platform strongly dynamic typed object-based with functional features automation and configuration language. 
+- [PowerShell](https://github.com/PowerShell/PowerShell) - Cross-platform strongly dynamic typed object-based with functional features automation and configuration language.
 - [Red](https://github.com/red/red) - Strongly inspired by Rebol, but with a broader field of usage thanks to its native-code compiler, from system programming to high-level scripting and cross-platform reactive GUI.
+- [Pony](https://www.ponylang.io/) - Open-source, object-oriented, actor-model, capabilities-secure, high-performance programming language.
 
 ## Related
 
