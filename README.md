@@ -40,6 +40,7 @@
 - [Koka](https://github.com/koka-lang/koka) - Function-oriented language with effect inference.
 - [Beluga](https://github.com/Beluga-lang/Beluga) - Functional programming language designed for reasoning about formal systems.
 - [Gluon](https://github.com/gluon-lang/gluon) - Static, type inferred and embeddable language written in Rust.
+- [Ur/Web](https://github.com/urweb/urweb) - Implementation of a domain-specific functional programming language for web applications.
 
 ## Lisp
 
