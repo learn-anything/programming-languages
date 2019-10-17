@@ -41,6 +41,7 @@
 - [Beluga](https://github.com/Beluga-lang/Beluga) - Functional programming language designed for reasoning about formal systems.
 - [Gluon](https://github.com/gluon-lang/gluon) - Static, type inferred and embeddable language written in Rust.
 - [Ur/Web](https://github.com/urweb/urweb) - Implementation of a domain-specific functional programming language for web applications.
+- [Lasca](https://github.com/nau) - LLVM-based statically or dynamically typed strict functional programming language. Simplified OCaml if you will.
 
 ## Lisp
 
