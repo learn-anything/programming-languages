@@ -42,6 +42,7 @@
 - [Gluon](https://github.com/gluon-lang/gluon) - Static, type inferred and embeddable language written in Rust.
 - [Ur/Web](https://github.com/urweb/urweb) - Implementation of a domain-specific functional programming language for web applications.
 - [Lasca](https://github.com/nau) - LLVM-based statically or dynamically typed strict functional programming language. Simplified OCaml if you will.
+- [Ko](https://github.com/kocircuit/kocircuit) - Generic type-safe language for concurrent, stateful, deadlock-free systems and protocol manipulations.
 
 ## Lisp
 
