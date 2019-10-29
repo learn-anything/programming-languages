@@ -3,8 +3,6 @@
 [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
 [![Contribute](https://img.shields.io/badge/-contribute-0a0a0a.svg?style=flat&colorA=0a0a0a)](CONTRIBUTING.md#readme)
 
----
-
 #### Contents
 
 - [Functional](#functional)
@@ -12,8 +10,6 @@
 - [Multi paradigm](#multi-paradigm)
 - [Other](#other)
 - [Related](#related)
-
----
 
 ## Functional
 
@@ -81,8 +77,6 @@
 ## Related
 
 - [List of programming languages that are actively developed on GitHub](https://github.com/collections/programming-languages)
-
----
 
 [![CC0](https://img.shields.io/badge/license-CC0-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
