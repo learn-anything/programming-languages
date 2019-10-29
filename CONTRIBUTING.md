@@ -1,5 +1,7 @@
 # Contribution Guidelines
+
 Ensure your pull request adheres to the following guidelines:
+
 - Search included languages before adding a new one, as yours may be a duplicate.
 - Use the following format: `[Name](link) - Description.`
 - Where `link` links to GitHub page of the language if one exists. If not, it should link to official page for the language or Wikipedia entry if neither of those exist.
@@ -12,4 +14,4 @@ Ensure your pull request adheres to the following guidelines:
 - Check your spelling and grammar.
 - You can also add related links and repositories in the end.
 
-Thank you for your [suggestions](../../edit/master/README.md)! 💜
+Thank you for your [suggestions](../../edit/master/README.md)! ♥️
