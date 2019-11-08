@@ -72,6 +72,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Red](https://github.com/red/red) - Strongly inspired by Rebol, but with a broader field of usage thanks to its native-code compiler, from system programming to high-level scripting and cross-platform reactive GUI.
 - [Pony](https://www.ponylang.io/) - Open-source, object-oriented, actor-model, capabilities-secure, high-performance programming language.
 - [Clay](https://github.com/jckarter/clay) - Programming language designed for Generic Programming.
+- [Smudge](https://github.com/smudgelang/smudge) - Domain-specific language for state machines.
 
 ## Related
 
