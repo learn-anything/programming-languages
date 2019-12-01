@@ -38,6 +38,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Ur/Web](https://github.com/urweb/urweb) - Implementation of a domain-specific functional programming language for web applications.
 - [Lasca](https://github.com/nau) - LLVM-based statically or dynamically typed strict functional programming language. Simplified OCaml if you will.
 - [Ko](https://github.com/kocircuit/kocircuit) - Generic type-safe language for concurrent, stateful, deadlock-free systems and protocol manipulations.
+- [Braid](https://github.com/joshsharp/braid) - Functional language with Reason-like syntax that compiles to Go.
 
 ## Lisp
 
@@ -58,6 +59,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Python](https://github.com/python/cpython) - Interpreted high-level language for general-purpose programming.
 - [Swift](https://github.com/apple/swift) - General-purpose, multi-paradigm, compiled programming language.
 - [TypeScript](https://github.com/Microsoft/TypeScript) - Strict syntactical superset of JavaScript that adds optional static typing to the language.
+- [Ring](https://github.com/ring-lang/ring) - Innovative and practical general-purpose multi-paradigm language.
 
 ## Other
 
@@ -73,6 +75,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Pony](https://www.ponylang.io/) - Open-source, object-oriented, actor-model, capabilities-secure, high-performance programming language.
 - [Clay](https://github.com/jckarter/clay) - Programming language designed for Generic Programming.
 - [Smudge](https://github.com/smudgelang/smudge) - Domain-specific language for state machines.
+- [Felix](https://github.com/felix-lang/felix) - Advanced, statically typed, high performance scripting language with native C++ embedding.
 
 ## Related
 
