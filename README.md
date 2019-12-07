@@ -39,6 +39,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Lasca](https://github.com/nau) - LLVM-based statically or dynamically typed strict functional programming language. Simplified OCaml if you will.
 - [Ko](https://github.com/kocircuit/kocircuit) - Generic type-safe language for concurrent, stateful, deadlock-free systems and protocol manipulations.
 - [Braid](https://github.com/joshsharp/braid) - Functional language with Reason-like syntax that compiles to Go.
+- [cur](https://github.com/wilbowma/cur) - Powerful meta-programming for powerful types.
 
 ## Lisp
 
