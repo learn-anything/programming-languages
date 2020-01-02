@@ -40,6 +40,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Ko](https://github.com/kocircuit/kocircuit) - Generic type-safe language for concurrent, stateful, deadlock-free systems and protocol manipulations.
 - [Braid](https://github.com/joshsharp/braid) - Functional language with Reason-like syntax that compiles to Go.
 - [cur](https://github.com/wilbowma/cur) - Powerful meta-programming for powerful types.
+- [Ink](https://github.com/thesephist/ink) - Minimal programming language inspired by modern JavaScript and Go, with functional style.
 
 ## Lisp
 
@@ -77,6 +78,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Clay](https://github.com/jckarter/clay) - Programming language designed for Generic Programming.
 - [Smudge](https://github.com/smudgelang/smudge) - Domain-specific language for state machines.
 - [Felix](https://github.com/felix-lang/felix) - Advanced, statically typed, high performance scripting language with native C++ embedding.
+- [StarShip](https://github.com/larsaugustin/StarShip) - Interpreted, strongly typed, and functional programming language written in Swift.
 
 ## Related
 
