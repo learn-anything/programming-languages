@@ -80,6 +80,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Smudge](https://github.com/smudgelang/smudge) - Domain-specific language for state machines.
 - [Felix](https://github.com/felix-lang/felix) - Advanced, statically typed, high performance scripting language with native C++ embedding.
 - [StarShip](https://github.com/larsaugustin/StarShip) - Interpreted, strongly typed, and functional programming language written in Swift.
+- [DaCE](https://github.com/spcl/dace) - Data-Centric Parallel Programming.
 
 ## Related
 
