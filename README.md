@@ -82,6 +82,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Felix](https://github.com/felix-lang/felix) - Advanced, statically typed, high performance scripting language with native C++ embedding.
 - [StarShip](https://github.com/larsaugustin/StarShip) - Interpreted, strongly typed, and functional programming language written in Swift.
 - [DaCE](https://github.com/spcl/dace) - Data-Centric Parallel Programming.
+- [Beef](https://github.com/beefytech/Beef) - Open source performance-oriented compiled programming language which has been built hand-in-hand with its IDE environment.
 
 ## Related
 
