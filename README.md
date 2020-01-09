@@ -45,6 +45,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 
 ## Lisp
 
+- [Common Lisp](https://lisp-lang.org/) - Modern, multi-paradigm, high-performance, compiled, ANSI-standardized, most prominent (along with Scheme) descendant of the long-running family of Lisp programming languages.
 - [Clojure](https://github.com/JeffBezanson/femtolisp) - Dynamic, general-purpose, combining the approachability and interactive development of a scripting language with an efficient and robust infrastructure for multithreaded programming.
 - [femtolisp](https://github.com/JeffBezanson/femtolisp) - Lightweight, robust, scheme-like lisp implementation.
 - [Fennel](https://github.com/bakpakin/Fennel) - Lua Lisp Language.
@@ -55,6 +56,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 ## Multi paradigm
 
 - [C](<http://en.wikipedia.org/wiki/C_(programming_language)>) - General-purpose, imperative, supporting structured programming, lexical variable scope and recursion, while a static type system prevents many unintended operations.
+- [D](https://dlang.org/) - General-purpose programming language with static typing, systems-level access, and C-like syntax.
 - [Go](https://github.com/golang/go) - Compiled, statically typed in the tradition of Algol and C, with garbage collection, limited structural typing, memory safety features and CSP-style concurrent programming features added.
 - [Haxe](https://github.com/HaxeFoundation/haxe) - High-level and strictly-typed, cross-compiles to many different targets.
 - [JavaScript](http://en.wikipedia.org/wiki/JavaScript) - High-level, dynamic, weakly typed, prototype-based, multi-paradigm, and interpreted.
