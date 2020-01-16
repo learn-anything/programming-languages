@@ -85,6 +85,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [StarShip](https://github.com/larsaugustin/StarShip) - Interpreted, strongly typed, and functional programming language written in Swift.
 - [DaCE](https://github.com/spcl/dace) - Data-Centric Parallel Programming.
 - [Beef](https://github.com/beefytech/Beef) - Open source performance-oriented compiled programming language which has been built hand-in-hand with its IDE environment.
+- [Verona](https://github.com/microsoft/verona) - Research programming language to explore the concept of concurrent ownership.
 
 ## Related
 
