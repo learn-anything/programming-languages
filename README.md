@@ -89,6 +89,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Factor](https://factorcode.org/) - Practical stack language.
 - [wenyan](https://wy-lang.org/) - Esoteric programming language that closely follows the grammar and tone of classical Chinese literature.
 - [Titan](https://github.com/titan-lang/titan) - New programming language, designed to be a statically-typed, ahead-of-time compiled sister language to Lua.
+- [Odin](https://github.com/odin-lang/Odin) - Fast, concise, readable, pragmatic and open sourced. It is designed with the intent of replacing C.
 
 ## Related
 
