@@ -88,6 +88,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Verona](https://github.com/microsoft/verona) - Research programming language to explore the concept of concurrent ownership.
 - [Factor](https://factorcode.org/) - Practical stack language.
 - [wenyan](https://wy-lang.org/) - Esoteric programming language that closely follows the grammar and tone of classical Chinese literature.
+- [Titan](https://github.com/titan-lang/titan) - New programming language, designed to be a statically-typed, ahead-of-time compiled sister language to Lua.
 
 ## Related
 
