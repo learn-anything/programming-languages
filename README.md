@@ -92,6 +92,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Odin](https://github.com/odin-lang/Odin) - Fast, concise, readable, pragmatic and open sourced. It is designed with the intent of replacing C.
 - [Taichi](https://github.com/taichi-dev/taichi) - Productive programming language for portable, high-performance, sparse & differentiable computing.
 - [XL](https://github.com/c3d/xl) - Extensible programming language designed to accomodate a variety of programming needs with ease.
+- [ABS](https://github.com/abs-lang/abs) - Programming language that works best when you're scripting on your terminal.
 
 ## Related
 
