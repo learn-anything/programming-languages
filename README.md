@@ -41,7 +41,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Braid](https://github.com/joshsharp/braid) - Functional language with Reason-like syntax that compiles to Go.
 - [cur](https://github.com/wilbowma/cur) - Powerful meta-programming for powerful types.
 - [Ink](https://github.com/thesephist/ink) - Minimal programming language inspired by modern JavaScript and Go, with functional style.
-- [Bosatsu](https://github.com/johnynek/bosatsu) - Python-ish pure and total functional programming language.
+- [Verve](https://github.com/tadeuzagallo/verve-lang) - Functional language for the working hacker.
 
 ## Lisp
 
