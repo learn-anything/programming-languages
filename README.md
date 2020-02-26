@@ -42,6 +42,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [cur](https://github.com/wilbowma/cur) - Powerful meta-programming for powerful types.
 - [Ink](https://github.com/thesephist/ink) - Minimal programming language inspired by modern JavaScript and Go, with functional style.
 - [Verve](https://github.com/tadeuzagallo/verve-lang) - Functional language for the working hacker.
+- [Enki](https://github.com/ReedOei/Enki) - Intended to be a logic language for teaching programming to people with no programming experience.
 
 ## Lisp
 
