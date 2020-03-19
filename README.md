@@ -96,6 +96,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [XL](https://github.com/c3d/xl) - Extensible programming language designed to accomodate a variety of programming needs with ease.
 - [ABS](https://github.com/abs-lang/abs) - Programming language that works best when you're scripting on your terminal.
 - [ThinScript](https://github.com/evanw/thinscript) - Low-level programming language inspired by TypeScript.
+- [Makam](https://github.com/astampoulis/makam) - Tool for rapid language prototyping.
 
 ## Related
 
