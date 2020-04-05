@@ -97,6 +97,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [ABS](https://github.com/abs-lang/abs) - Programming language that works best when you're scripting on your terminal.
 - [ThinScript](https://github.com/evanw/thinscript) - Low-level programming language inspired by TypeScript.
 - [Makam](https://github.com/astampoulis/makam) - Tool for rapid language prototyping.
+- [fe](https://github.com/rxi/fe) - Tiny, embeddable language implemented in ANSI C. ([HN](https://news.ycombinator.com/item?id=22785137))
 
 ## Related
 
