@@ -44,6 +44,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Verve](https://github.com/tadeuzagallo/verve-lang) - Functional language for the working hacker.
 - [Enki](https://github.com/ReedOei/Enki) - Intended to be a logic language for teaching programming to people with no programming experience.
 - [Bright ML](https://github.com/elpinal/bright-ml) - Statically-typed programming language based on "F-ing modules".
+- [TopShell](https://github.com/topshell-language/topshell) - Purely functional, reactive scripting language.
 
 ## Lisp
 
