@@ -45,6 +45,8 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Enki](https://github.com/ReedOei/Enki) - Intended to be a logic language for teaching programming to people with no programming experience.
 - [Bright ML](https://github.com/elpinal/bright-ml) - Statically-typed programming language based on "F-ing modules".
 - [TopShell](https://github.com/topshell-language/topshell) - Purely functional, reactive scripting language.
+- [Amulet](https://github.com/amuletml/amulet) - ML-like functional programming language.
+- [Never](https://github.com/never-lang/never) - Statically typed, embedded functional programming language.
 
 ## Lisp
 
