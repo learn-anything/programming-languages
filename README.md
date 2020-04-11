@@ -47,6 +47,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [TopShell](https://github.com/topshell-language/topshell) - Purely functional, reactive scripting language.
 - [Amulet](https://github.com/amuletml/amulet) - ML-like functional programming language.
 - [Never](https://github.com/never-lang/never) - Statically typed, embedded functional programming language.
+- [Functa](https://github.com/dragostis/Functa) - Flexible, fully functional dynamic programming language.
 
 ## Lisp
 
