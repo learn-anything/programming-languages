@@ -102,6 +102,8 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [ThinScript](https://github.com/evanw/thinscript) - Low-level programming language inspired by TypeScript.
 - [Makam](https://github.com/astampoulis/makam) - Tool for rapid language prototyping.
 - [fe](https://github.com/rxi/fe) - Tiny, embeddable language implemented in ANSI C. ([HN](https://news.ycombinator.com/item?id=22785137))
+- [Monkey lang in Go](https://github.com/bradford-hamilton/monkey-lang)
+- [Monkey lang in Rust](https://github.com/bradford-hamilton/monkey_lang_rust)
 
 ## Related
 
