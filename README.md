@@ -105,6 +105,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Monkey in Go](https://github.com/bradford-hamilton/monkey-lang)
 - [Monkey in Rust](https://github.com/bradford-hamilton/monkey_lang_rust)
 - [Monkey in TypeScript](https://github.com/bradford-hamilton/monkey_lang_rust)
+- [Pointless](https://github.com/pointless-lang/pointless) - Scripting language for learning and fun.
 
 ## Related
 
