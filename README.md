@@ -57,7 +57,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Fennel](https://github.com/bakpakin/Fennel) - Lua Lisp Language.
 - [PicoLisp](https://picolisp.com/wiki/) - Simple and lightweight and encourages clean, concise code.
 - [Janet](https://github.com/janet-lang/janet) - Functional and imperative programming language and bytecode interpreter.
-- [Carp](https://github.com/carp-lang/Carp) - Statically typed lisp, without a GC, for real-time applications.
+- [Carp](https://github.com/carp-lang/Carp) - Statically typed lisp, without a GC, for real-time applications. ([Snippets](https://github.com/carpentry-org/snippets))
 
 ## Multi paradigm
 
