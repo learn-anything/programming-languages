@@ -49,6 +49,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Never](https://github.com/never-lang/never) - Statically typed, embedded functional programming language.
 - [Functa](https://github.com/dragostis/Functa) - Flexible, fully functional dynamic programming language.
 - [Pikelet](https://github.com/pikelet-lang/pikelet) - Small, functional, dependently typed programming language.
+- [Chaos](https://github.com/chaos-lang/chaos) - Purely functional programming language that achieves zero cyclomatic complexity. ([HN](https://news.ycombinator.com/item?id=22940265))
 
 ## Lisp
 
