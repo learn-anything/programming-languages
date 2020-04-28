@@ -109,6 +109,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Monkey in Rust](https://github.com/bradford-hamilton/monkey_lang_rust)
 - [Monkey in TypeScript](https://github.com/bradford-hamilton/monkey_lang_rust)
 - [Pointless](https://github.com/pointless-lang/pointless) - Scripting language for learning and fun.
+- [Jai](https://github.com/BSVino/JaiPrimer/blob/master/JaiPrimer.md) - High-level programming language developed by Jonathan Blow.
 
 ## Related
 
