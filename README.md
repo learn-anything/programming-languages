@@ -7,6 +7,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Functional](#functional)
 - [Lisp](#lisp)
 - [Multi paradigm](#multi-paradigm)
+- [Funny](#funny)
 - [Other](#other)
 - [Related](#related)
 
@@ -76,6 +77,10 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Swift](https://github.com/apple/swift) - General-purpose, multi-paradigm, compiled programming language.
 - [TypeScript](https://github.com/Microsoft/TypeScript) - Strict syntactical superset of JavaScript that adds optional static typing to the language.
 - [Ring](https://github.com/ring-lang/ring) - Innovative and practical general-purpose multi-paradigm language.
+
+## Funny
+
+- [dogescript](https://github.com/dogescript/dogescript) - Wow so syntax very doge much future.
 
 ## Other
 
