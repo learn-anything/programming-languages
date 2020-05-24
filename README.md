@@ -120,6 +120,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Cone](https://github.com/jondgoodwin/cone) - Fast, fit, friendly, and safe systems programming language.
 - [micro-mitten](https://github.com/doctorn/micro-mitten) - Bare-bones Rust-like programming language, stripped down to simplify control-flow structures and the type system. ([HN](https://news.ycombinator.com/item?id=23113661))
 - [Bolt](https://github.com/mukul-rathi/bolt) - Research language with finer-grained concurrency than Rust. ([HN](https://news.ycombinator.com/item?id=23122973))
+- [Skip](https://github.com/skiplang/skip) - Programming language to skip the things you have already computed.
 
 ## Related
 
