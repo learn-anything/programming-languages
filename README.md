@@ -127,6 +127,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [MiniAgda](https://github.com/andreasabel/miniagda) - Prototypical dependently typed languages with sized types and variances.
 - [Muon](https://github.com/nickmqb/muon) - Modern low-level programming language.
 - [Yatta](https://github.com/yatta-lang/yatta) - Minimalistic, opiniated, (strongly) dynamically typed, strict, functional programming language, with ML-like syntax, for GraalVM.
+- [Concurnas](https://concurnas.com/) - Open source JVM programming language designed for building reliable, scalable, high performance concurrent, distributed and parallel systems. ([HN](https://news.ycombinator.com/item?id=23321096))
 
 ## Related
 
