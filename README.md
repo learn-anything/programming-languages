@@ -53,6 +53,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Chaos](https://github.com/chaos-lang/chaos) - Purely functional programming language that achieves zero cyclomatic complexity. ([HN](https://news.ycombinator.com/item?id=22940265))
 - [Spiral](https://github.com/mrakgr/The-Spiral-Language) - Functional language with intensional polymorphism and first-class staging.
 - [Neut](https://github.com/u2zv1wx/neut) - Dependently-typed programming language based on the Calculus of Constructions. ([HN](https://news.ycombinator.com/item?id=23283880))
+- [Salt](https://github.com/discus-lang/salt) - Compilation target that functional programmers always wanted.
 
 ## Lisp
 
