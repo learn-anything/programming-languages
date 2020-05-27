@@ -126,6 +126,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [wlang](https://github.com/rsms/wlang)
 - [MiniAgda](https://github.com/andreasabel/miniagda) - Prototypical dependently typed languages with sized types and variances.
 - [Muon](https://github.com/nickmqb/muon) - Modern low-level programming language.
+- [Yatta](https://github.com/yatta-lang/yatta) - Minimalistic, opiniated, (strongly) dynamically typed, strict, functional programming language, with ML-like syntax, for GraalVM.
 
 ## Related
 
