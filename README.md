@@ -122,6 +122,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Bolt](https://github.com/mukul-rathi/bolt) - Research language with finer-grained concurrency than Rust. ([HN](https://news.ycombinator.com/item?id=23122973))
 - [Skip](https://github.com/skiplang/skip) - Programming language to skip the things you have already computed.
 - [wlang](https://github.com/rsms/wlang)
+- [MiniAgda](https://github.com/andreasabel/miniagda) - Prototypical dependently typed languages with sized types and variances.
 
 ## Related
 
