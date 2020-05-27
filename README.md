@@ -54,6 +54,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Spiral](https://github.com/mrakgr/The-Spiral-Language) - Functional language with intensional polymorphism and first-class staging.
 - [Neut](https://github.com/u2zv1wx/neut) - Dependently-typed programming language based on the Calculus of Constructions. ([HN](https://news.ycombinator.com/item?id=23283880))
 - [Salt](https://github.com/discus-lang/salt) - Compilation target that functional programmers always wanted.
+- [Discus](https://github.com/discus-lang/ddc) - Experimental dialect of Haskell which investigates static typing and program transformation in the presence of computational effects.
 
 ## Lisp
 
@@ -124,6 +125,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Skip](https://github.com/skiplang/skip) - Programming language to skip the things you have already computed.
 - [wlang](https://github.com/rsms/wlang)
 - [MiniAgda](https://github.com/andreasabel/miniagda) - Prototypical dependently typed languages with sized types and variances.
+- [Muon](https://github.com/nickmqb/muon) - Modern low-level programming language.
 
 ## Related
 
