@@ -129,6 +129,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Yatta](https://github.com/yatta-lang/yatta) - Minimalistic, opiniated, (strongly) dynamically typed, strict, functional programming language, with ML-like syntax, for GraalVM.
 - [Concurnas](https://concurnas.com/) - Open source JVM programming language designed for building reliable, scalable, high performance concurrent, distributed and parallel systems. ([HN](https://news.ycombinator.com/item?id=23321096))
 - [Compose](https://github.com/samskivert/compose) - Experimental programming language. It aims to be teachable, scalable, modern, powerful & precise.
+- [Mu](https://github.com/akkartik/mu) - Minimal-dependency hobbyist computing stack.
 
 ## Related
 
