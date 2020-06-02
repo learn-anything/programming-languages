@@ -130,6 +130,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Concurnas](https://concurnas.com/) - Open source JVM programming language designed for building reliable, scalable, high performance concurrent, distributed and parallel systems. ([HN](https://news.ycombinator.com/item?id=23321096))
 - [Compose](https://github.com/samskivert/compose) - Experimental programming language. It aims to be teachable, scalable, modern, powerful & precise.
 - [Mu](https://github.com/akkartik/mu) - Minimal-dependency hobbyist computing stack.
+- [Hugorm](https://github.com/nilq/hugorm) - Mission-critical scripting language.
 
 ## Related
 
