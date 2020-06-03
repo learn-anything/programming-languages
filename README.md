@@ -132,6 +132,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Mu](https://github.com/akkartik/mu) - Minimal-dependency hobbyist computing stack.
 - [Mun](https://github.com/mun-lang/mun) - Programming language empowering creation through iteration.
 - [Hugorm](https://github.com/nilq/hugorm) - Mission-critical scripting language.
+- [Lys](https://github.com/lys-lang/lys) - Language that compiles to WebAssembly.
 
 ## Related
 
