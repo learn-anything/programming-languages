@@ -55,6 +55,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Neut](https://github.com/u2zv1wx/neut) - Dependently-typed programming language based on the Calculus of Constructions. ([HN](https://news.ycombinator.com/item?id=23283880))
 - [Salt](https://github.com/discus-lang/salt) - Compilation target that functional programmers always wanted.
 - [Discus](https://github.com/discus-lang/ddc) - Experimental dialect of Haskell which investigates static typing and program transformation in the presence of computational effects.
+- [Keli](https://github.com/KeliLanguage/compiler)
 
 ## Lisp
 
