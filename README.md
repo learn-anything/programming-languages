@@ -136,6 +136,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Lys](https://github.com/lys-lang/lys) - Language that compiles to WebAssembly.
 - [Radiance](https://github.com/shortercode/Radiance) - Simple language that compiles to WASM.
 - [FaCT](https://github.com/PLSysSec/FaCT) - Flexible and Constant Time Programming Language.
+- [min](https://github.com/h3rald/min) - Tiny concatenative programming language and shell.
 
 ## Related
 
