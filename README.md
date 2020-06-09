@@ -137,6 +137,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Radiance](https://github.com/shortercode/Radiance) - Simple language that compiles to WASM.
 - [FaCT](https://github.com/PLSysSec/FaCT) - Flexible and Constant Time Programming Language.
 - [min](https://github.com/h3rald/min) - Tiny concatenative programming language and shell.
+- [Gravity](https://marcobambini.github.io/gravity/#/) - Embeddable programming language. ([Code](https://github.com/marcobambini/gravity)) ([HN](https://news.ycombinator.com/item?id=23467289))
 
 ## Related
 
