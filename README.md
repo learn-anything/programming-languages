@@ -138,6 +138,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [FaCT](https://github.com/PLSysSec/FaCT) - Flexible and Constant Time Programming Language.
 - [min](https://github.com/h3rald/min) - Tiny concatenative programming language and shell.
 - [Gravity](https://marcobambini.github.io/gravity/#/) - Embeddable programming language. ([Code](https://github.com/marcobambini/gravity)) ([HN](https://news.ycombinator.com/item?id=23467289))
+- [Disco](https://github.com/disco-lang/disco) - Functional teaching language for use in a discrete mathematics course.
 
 ## Related
 
