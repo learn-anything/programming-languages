@@ -141,6 +141,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Gravity](https://marcobambini.github.io/gravity/#/) - Embeddable programming language. ([Code](https://github.com/marcobambini/gravity)) ([HN](https://news.ycombinator.com/item?id=23467289))
 - [Disco](https://github.com/disco-lang/disco) - Functional teaching language for use in a discrete mathematics course.
 - [Wren](https://github.com/wren-lang/wren) - Small, fast, class-based concurrent scripting language.
+- [Inko](https://gitlab.com/inko-lang/inko) - Statically-typed, safe, object-oriented programming language for writing concurrent programs.
 
 ## Related
 
