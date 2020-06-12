@@ -142,6 +142,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Disco](https://github.com/disco-lang/disco) - Functional teaching language for use in a discrete mathematics course.
 - [Wren](https://github.com/wren-lang/wren) - Small, fast, class-based concurrent scripting language.
 - [Inko](https://gitlab.com/inko-lang/inko) - Statically-typed, safe, object-oriented programming language for writing concurrent programs.
+- [Hamler](https://www.hamler-lang.org/) - Haskell-style functional programming language running on Erlang VM. ([Code](https://github.com/hamler-lang/hamler)) ([Article](https://www.emqx.io/news/open-source-functional-programming-language-hamler))
 
 ## Related
 
