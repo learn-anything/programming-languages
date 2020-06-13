@@ -28,7 +28,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Sixten](https://github.com/ollef/sixten) - Experimental functional language where all data is unboxed by default. Functional programming with fewer indirections.
 - [TiML](http://adam.chlipala.net/papers/TimlOOPSLA17/) - Functional Language for Practical Complexity Analysis with Invariants.
 - [Unison](https://github.com/unisonweb/unison) - Modern, statically-typed purely functional language, similar to Haskell, but with a unique ability to describe entire distributed systems with a single program.
-- [Expresso](https://github.com/willtim/Expresso) - Simple expressions language with polymorphic extensible row types.
+- [Expresso](https://github.com/willtim/Expresso) - Simple expressions language with polymorphic extensible row types. ([HN](https://news.ycombinator.com/item?id=23501981))
 - [Bosatsu](https://github.com/johnynek/bosatsu) - Python-ish pure and total functional programming language.
 - [Silt](https://github.com/silt-lang/silt) - An in-progress fast, dependently typed, functional programming language implemented in Swift.
 - [Granule](https://github.com/granule-project/granule) - Statically typed functional language with graded modal types for fine-grained program reasoning via types.
