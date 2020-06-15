@@ -145,6 +145,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Inko](https://gitlab.com/inko-lang/inko) - Statically-typed, safe, object-oriented programming language for writing concurrent programs.
 - [Hamler](https://www.hamler-lang.org/) - Haskell-style functional programming language running on Erlang VM. ([Code](https://github.com/hamler-lang/hamler)) ([Article](https://www.emqx.io/news/open-source-functional-programming-language-hamler))
 - [Luster](https://github.com/kyren/luster) - Experimental Lua VM implemented in pure Rust.
+- [Wuffs](https://github.com/google/wuffs) - Memory-safe programming language (and a standard library written in that language) for wrangling untrusted file formats safely.
 
 ## Related
 
