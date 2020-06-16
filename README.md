@@ -57,6 +57,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Discus](https://github.com/discus-lang/ddc) - Experimental dialect of Haskell which investigates static typing and program transformation in the presence of computational effects.
 - [Keli](https://github.com/KeliLanguage/compiler)
 - [F#](https://github.com/dotnet/fsharp) - Open-source, cross-platform functional programming language for .NET.
+- [Tyrade](https://github.com/willcrichton/tyrade) - Pure functional language for type-level programming in Rust.
 
 ## Lisp
 
