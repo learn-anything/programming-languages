@@ -86,6 +86,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 ## Funny
 
 - [dogescript](https://github.com/dogescript/dogescript) - Wow so syntax very doge much future.
+- [C-plus-Equality](https://github.com/ErisBlastar/cplusequality) - Feminist programming language.
 
 ## Other
 
