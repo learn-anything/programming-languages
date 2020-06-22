@@ -149,6 +149,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Luster](https://github.com/kyren/luster) - Experimental Lua VM implemented in pure Rust.
 - [Wuffs](https://github.com/google/wuffs) - Memory-safe programming language (and a standard library written in that language) for wrangling untrusted file formats safely.
 - [Caledon](https://github.com/mmirman/caledon) - Dependently typed, polymorphic, higher order logic programming language.
+- [Ditto](https://github.com/ditto/ditto) - Super Kawaii Dependently Typed Programming Language.
 
 ## Related
 
