@@ -1,8 +1,6 @@
-# Programming languages [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
+# Programming languages [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists)
 
-_Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributing._
-
-#### Contents
+_Please read [contribution guidelines](contributing.md) before contributing._
 
 - [Functional](#functional)
 - [Lisp](#lisp)
@@ -155,7 +153,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 
 - [List of programming languages that are actively developed on GitHub](https://github.com/collections/programming-languages)
 
-[![CC0](https://img.shields.io/badge/license-CC0-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/publicdomain/zero/1.0/)
-[![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
-[![Contribute](https://img.shields.io/badge/-contribute-0a0a0a.svg?style=flat&colorA=0a0a0a)](CONTRIBUTING.md#readme)
+[![CC4](https://img.shields.io/badge/license-CC4-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/licenses/by/4.0/)
+[![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists)
+[![Contribute](https://img.shields.io/badge/-contribute-0a0a0a.svg?style=flat&colorA=0a0a0a)](contributing.md)
 [![Twitter](http://bit.ly/latwitt)](https://twitter.com/learnanything_)
