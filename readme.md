@@ -148,6 +148,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Wuffs](https://github.com/google/wuffs) - Memory-safe programming language (and a standard library written in that language) for wrangling untrusted file formats safely.
 - [Caledon](https://github.com/mmirman/caledon) - Dependently typed, polymorphic, higher order logic programming language.
 - [Ditto](https://github.com/ditto/ditto) - Super Kawaii Dependently Typed Programming Language.
+- [Rhai](https://github.com/jonathandturner/rhai) - Embedded scripting language for Rust.
 
 ## Related
 
