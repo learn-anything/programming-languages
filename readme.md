@@ -149,6 +149,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Caledon](https://github.com/mmirman/caledon) - Dependently typed, polymorphic, higher order logic programming language.
 - [Ditto](https://github.com/ditto/ditto) - Super Kawaii Dependently Typed Programming Language.
 - [Rhai](https://github.com/jonathandturner/rhai) - Embedded scripting language for Rust.
+- [Pyret](https://www.pyret.org/) - Python like scripting language. ([Code](https://github.com/brownplt/pyret-lang))
 
 ## Related
 
