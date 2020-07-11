@@ -150,6 +150,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Ditto](https://github.com/ditto/ditto) - Super Kawaii Dependently Typed Programming Language.
 - [Rhai](https://github.com/jonathandturner/rhai) - Embedded scripting language for Rust.
 - [Pyret](https://www.pyret.org/) - Python like scripting language. ([Code](https://github.com/brownplt/pyret-lang))
+- [Gosu](https://gosu-lang.github.io/) - Pragmatic language for the JVM. ([Code](https://github.com/gosu-lang/gosu-lang))
 
 ## Related
 
