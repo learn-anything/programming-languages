@@ -151,6 +151,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Rhai](https://github.com/jonathandturner/rhai) - Embedded scripting language for Rust.
 - [Pyret](https://www.pyret.org/) - Python like scripting language. ([Code](https://github.com/brownplt/pyret-lang))
 - [Gosu](https://gosu-lang.github.io/) - Pragmatic language for the JVM. ([Code](https://github.com/gosu-lang/gosu-lang))
+- [Self](https://selflanguage.org/) - Prototype-based dynamic object-oriented programming language, environment, and virtual machine.
 
 ## Related
 
