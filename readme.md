@@ -152,6 +152,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Pyret](https://www.pyret.org/) - Python like scripting language. ([Code](https://github.com/brownplt/pyret-lang))
 - [Gosu](https://gosu-lang.github.io/) - Pragmatic language for the JVM. ([Code](https://github.com/gosu-lang/gosu-lang))
 - [Self](https://selflanguage.org/) - Prototype-based dynamic object-oriented programming language, environment, and virtual machine. ([Code](https://github.com/russellallen/self))
+- [Vale](https://vale.dev/) - Fast, safe, and easy programming language. It uses single ownership with constraint references for memory safety without garbage collection, and an emphasis on modern, readable syntax.
 
 ## Related
 
