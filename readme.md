@@ -106,7 +106,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [DaCE](https://github.com/spcl/dace) - Data-Centric Parallel Programming.
 - [Beef](https://github.com/beefytech/Beef) - Open source performance-oriented compiled programming language which has been built hand-in-hand with its IDE environment.
 - [Verona](https://github.com/microsoft/verona) - Research programming language to explore the concept of concurrent ownership.
-- [Factor](https://factorcode.org/) - Practical stack language.
+- [Factor](https://factorcode.org/) - Practical stack language. ([Lobsters](https://lobste.rs/s/sv9jw7/factor_programming_language))
 - [wenyan](https://wy-lang.org/) - Esoteric programming language that closely follows the grammar and tone of classical Chinese literature.
 - [Titan](https://github.com/titan-lang/titan) - New programming language, designed to be a statically-typed, ahead-of-time compiled sister language to Lua.
 - [Odin](https://github.com/odin-lang/Odin) - Fast, concise, readable, pragmatic and open sourced. It is designed with the intent of replacing C.
