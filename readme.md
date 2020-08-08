@@ -66,6 +66,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [PicoLisp](https://picolisp.com/wiki/) - Simple and lightweight and encourages clean, concise code.
 - [Janet](https://github.com/janet-lang/janet) - Functional and imperative programming language and bytecode interpreter.
 - [Carp](https://github.com/carp-lang/Carp) - Statically typed lisp, without a GC, for real-time applications. ([Snippets](https://github.com/carpentry-org/snippets))
+- [Urn](https://urn-lang.com/) - Lisp implementation for Lua. ([Code](https://github.com/SquidDev/urn)) ([Lobsters](https://lobste.rs/s/qzubyo/urn_lisp_implementation_for_lua))
 
 ## Multi paradigm
 
