@@ -157,6 +157,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Oak](https://github.com/adam-mcdaniel/oakc) - Portable programming language with an compact intermediate representation.
 - [Luau](https://roblox.github.io/luau/) - Fast, small, safe, gradually typed embeddable scripting language derived from Lua. ([FAQ](https://gist.github.com/zeux/bb646a63c02ff2828117092036d2d174)) ([HN](https://news.ycombinator.com/item?id=24059432))
 - [daScript](https://dascript.org/) - High-performance statically strong typed scripting language. ([HN](https://news.ycombinator.com/item?id=24166505))
+- [Lush](http://lush.sourceforge.net/) - Object-oriented programming language designed for researchers, experimenters, and engineers interested in large-scale numerical and graphic applications.
 
 ## Related
 
