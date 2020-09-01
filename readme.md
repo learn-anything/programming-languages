@@ -53,7 +53,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Neut](https://github.com/u2zv1wx/neut) - Dependently-typed programming language based on the Calculus of Constructions. ([HN](https://news.ycombinator.com/item?id=23283880))
 - [Salt](https://github.com/discus-lang/salt) - Compilation target that functional programmers always wanted.
 - [Discus](https://github.com/discus-lang/ddc) - Experimental dialect of Haskell which investigates static typing and program transformation in the presence of computational effects.
-- [Keli](https://github.com/KeliLanguage/compiler)
+- [Keli](https://github.com/KeliLanguage/compiler) ([Motivations](https://keli-language.gitbook.io/doc/)) ([HN](https://news.ycombinator.com/item?id=24331635))
 - [F#](https://github.com/dotnet/fsharp) - Open-source, cross-platform functional programming language for .NET.
 - [Tyrade](https://github.com/willcrichton/tyrade) - Pure functional language for type-level programming in Rust.
 
@@ -158,6 +158,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Luau](https://roblox.github.io/luau/) - Fast, small, safe, gradually typed embeddable scripting language derived from Lua. ([FAQ](https://gist.github.com/zeux/bb646a63c02ff2828117092036d2d174)) ([HN](https://news.ycombinator.com/item?id=24059432))
 - [daScript](https://dascript.org/) - High-performance statically strong typed scripting language. ([HN](https://news.ycombinator.com/item?id=24166505))
 - [Lush](http://lush.sourceforge.net/) - Object-oriented programming language designed for researchers, experimenters, and engineers interested in large-scale numerical and graphic applications.
+- [Luna](https://luna-lang.org/) - Data processing and visualization environment.
 
 ## Related
 
