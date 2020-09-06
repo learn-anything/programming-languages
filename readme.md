@@ -159,6 +159,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [daScript](https://dascript.org/) - High-performance statically strong typed scripting language. ([HN](https://news.ycombinator.com/item?id=24166505))
 - [Lush](http://lush.sourceforge.net/) - Object-oriented programming language designed for researchers, experimenters, and engineers interested in large-scale numerical and graphic applications.
 - [Luna](https://luna-lang.org/) - Data processing and visualization environment.
+- [liblg](https://github.com/codr7/liblg) - Minimal stack-based VM. ([HN](https://news.ycombinator.com/item?id=24388687))
 
 ## Related
 
