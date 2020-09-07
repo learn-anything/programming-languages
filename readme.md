@@ -39,7 +39,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Ko](https://github.com/kocircuit/kocircuit) - Generic type-safe language for concurrent, stateful, deadlock-free systems and protocol manipulations.
 - [Braid](https://github.com/joshsharp/braid) - Functional language with Reason-like syntax that compiles to Go.
 - [cur](https://github.com/wilbowma/cur) - Powerful meta-programming for powerful types.
-- [Ink](https://github.com/thesephist/ink) - Minimal programming language inspired by modern JavaScript and Go, with functional style.
+- [Ink](https://github.com/thesephist/ink) - Minimal programming language inspired by modern JavaScript and Go, with functional style. ([Ink By Example](https://inkbyexample.com/))
 - [Verve](https://github.com/tadeuzagallo/verve-lang) - Functional language for the working hacker.
 - [Enki](https://github.com/ReedOei/Enki) - Intended to be a logic language for teaching programming to people with no programming experience.
 - [Bright ML](https://github.com/elpinal/bright-ml) - Statically-typed programming language based on "F-ing modules".
