@@ -160,6 +160,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Lush](http://lush.sourceforge.net/) - Object-oriented programming language designed for researchers, experimenters, and engineers interested in large-scale numerical and graphic applications.
 - [Luna](https://luna-lang.org/) - Data processing and visualization environment.
 - [liblg](https://github.com/codr7/liblg) - Minimal stack-based VM. ([HN](https://news.ycombinator.com/item?id=24388687))
+- [Rune](https://github.com/rune-rs/rune/) - Embeddable dynamic programming language for Rust. ([Docs](https://rune-rs.github.io/rune/)) ([Lobsters](https://lobste.rs/s/9duro8/rune_programming_language))
 
 ## Related
 
