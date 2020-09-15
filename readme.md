@@ -142,7 +142,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [min](https://github.com/h3rald/min) - Tiny concatenative programming language and shell.
 - [Gravity](https://marcobambini.github.io/gravity/#/) - Embeddable programming language. ([Code](https://github.com/marcobambini/gravity)) ([HN](https://news.ycombinator.com/item?id=23467289))
 - [Disco](https://github.com/disco-lang/disco) - Functional teaching language for use in a discrete mathematics course.
-- [Wren](https://github.com/wren-lang/wren) - Small, fast, class-based concurrent scripting language.
+- [Wren](https://github.com/wren-lang/wren) - Small, fast, class-based concurrent scripting language. ([Web](https://wren.io/)) ([Lobsters](https://lobste.rs/s/7tzgrc/wren_classy_little_scripting_language))
 - [Inko](https://gitlab.com/inko-lang/inko) - Statically-typed, safe, object-oriented programming language for writing concurrent programs.
 - [Hamler](https://www.hamler-lang.org/) - Haskell-style functional programming language running on Erlang VM. ([Code](https://github.com/hamler-lang/hamler)) ([Article](https://www.emqx.io/news/open-source-functional-programming-language-hamler))
 - [Luster](https://github.com/kyren/luster) - Experimental Lua VM implemented in pure Rust.
