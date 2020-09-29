@@ -163,6 +163,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Rune](https://github.com/rune-rs/rune/) - Embeddable dynamic programming language for Rust. ([Docs](https://rune-rs.github.io/rune/)) ([Lobsters](https://lobste.rs/s/9duro8/rune_programming_language))
 - [IntercalScript](https://github.com/Storyyeller/IntercalScript) - Systems programming language for the web that combines a simple and consistent syntax with a static type system that completely eliminates runtime type errors.
 - [Charity](http://pll.cpsc.ucalgary.ca/charity1/www/home.html) - Categorical programming language. ([Code](https://github.com/mietek/charity-lang))
+- [Elsa](https://github.com/elsaland/elsa) - Minimal, fast and secure QuickJS wrapper written in Go. ([HN](https://news.ycombinator.com/item?id=24626655))
 
 ## Related
 
