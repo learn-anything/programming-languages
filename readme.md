@@ -164,6 +164,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [IntercalScript](https://github.com/Storyyeller/IntercalScript) - Systems programming language for the web that combines a simple and consistent syntax with a static type system that completely eliminates runtime type errors.
 - [Charity](http://pll.cpsc.ucalgary.ca/charity1/www/home.html) - Categorical programming language. ([Code](https://github.com/mietek/charity-lang))
 - [Elsa](https://github.com/elsaland/elsa) - Minimal, fast and secure QuickJS wrapper written in Go. ([HN](https://news.ycombinator.com/item?id=24626655))
+- [Shiika](https://github.com/yhara/shiika) - Statically-typed programming language. Looks like Ruby, but has explicit type annotations.
 
 ## Related
 
