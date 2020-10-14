@@ -56,6 +56,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Keli](https://github.com/KeliLanguage/compiler) ([Motivations](https://keli-language.gitbook.io/doc/)) ([HN](https://news.ycombinator.com/item?id=24331635))
 - [F#](https://github.com/dotnet/fsharp) - Open-source, cross-platform functional programming language for .NET.
 - [Tyrade](https://github.com/willcrichton/tyrade) - Pure functional language for type-level programming in Rust.
+- [Unlambda](http://www.madore.org/~david/programs/unlambda/) - Minimal, "nearly pure" functional programming language invented by David Madore. Based on combinatory logic. ([Wiki](https://en.wikipedia.org/wiki/Unlambda))
 
 ## Lisp
 
@@ -165,6 +166,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Charity](http://pll.cpsc.ucalgary.ca/charity1/www/home.html) - Categorical programming language. ([Code](https://github.com/mietek/charity-lang))
 - [Elsa](https://github.com/elsaland/elsa) - Minimal, fast and secure QuickJS wrapper written in Go. ([HN](https://news.ycombinator.com/item?id=24626655))
 - [Shiika](https://github.com/yhara/shiika) - Statically-typed programming language. Looks like Ruby, but has explicit type annotations.
+- [Metamine](https://github.com/ymte/metamine) - Completely declarative programming language.
 
 ## Related
 
