@@ -124,7 +124,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Monkey in TypeScript](https://github.com/bradford-hamilton/monkey_lang_rust)
 - [Pointless](https://github.com/pointless-lang/pointless) - Scripting language for learning and fun. ([Web](https://ptls.dev/))
 - [Jai](https://github.com/BSVino/JaiPrimer/blob/master/JaiPrimer.md) - High-level programming language developed by Jonathan Blow.
-- [Cone](https://github.com/jondgoodwin/cone) - Fast, fit, friendly, and safe systems programming language.
+- [Cone](https://github.com/jondgoodwin/cone) - Fast, fit, friendly, and safe systems programming language. ([Web](https://cone.jondgoodwin.com/))
 - [micro-mitten](https://github.com/doctorn/micro-mitten) - Bare-bones Rust-like programming language, stripped down to simplify control-flow structures and the type system. ([HN](https://news.ycombinator.com/item?id=23113661))
 - [Bolt](https://github.com/mukul-rathi/bolt) - Research language with finer-grained concurrency than Rust. ([HN](https://news.ycombinator.com/item?id=23122973))
 - [Skip](https://github.com/skiplang/skip) - Programming language to skip the things you have already computed.
@@ -167,6 +167,8 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Elsa](https://github.com/elsaland/elsa) - Minimal, fast and secure QuickJS wrapper written in Go. ([HN](https://news.ycombinator.com/item?id=24626655))
 - [Shiika](https://github.com/yhara/shiika) - Statically-typed programming language. Looks like Ruby, but has explicit type annotations.
 - [Metamine](https://github.com/ymte/metamine) - Completely declarative programming language.
+- [\_hyperscript](https://github.com/bigskysoftware/_hyperscript) - Small scripting language for the web.
+- [Neon](https://neon-lang.dev/) - High-level, statically typed, garbage collected, imperative programming language intended for teaching and learning the craft of programming. ([Code](https://github.com/ghewgill/neon-lang))
 
 ## Related
 
