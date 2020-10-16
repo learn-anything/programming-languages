@@ -170,6 +170,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [\_hyperscript](https://github.com/bigskysoftware/_hyperscript) - Small scripting language for the web.
 - [Neon](https://neon-lang.dev/) - High-level, statically typed, garbage collected, imperative programming language intended for teaching and learning the craft of programming. ([Code](https://github.com/ghewgill/neon-lang))
 - [Myst](https://github.com/myst-lang/myst) - Structured, dynamic, general-purpose language.
+- [Wasp](https://github.com/wasp-lang/wasp) - Web Application Specification Language. Extensible DSL (domain-specific language) for building modern web apps with less code.
 
 ## Related
 
