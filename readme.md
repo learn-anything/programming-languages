@@ -171,6 +171,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Neon](https://neon-lang.dev/) - High-level, statically typed, garbage collected, imperative programming language intended for teaching and learning the craft of programming. ([Code](https://github.com/ghewgill/neon-lang))
 - [Myst](https://github.com/myst-lang/myst) - Structured, dynamic, general-purpose language.
 - [Wasp](https://github.com/wasp-lang/wasp) - Web Application Specification Language. Extensible DSL (domain-specific language) for building modern web apps with less code.
+- [Arturo](https://github.com/arturo-lang/arturo) - Simple, modern and powerful interpreted programming language for efficient scripting. ([Web](http://arturo-lang.io/))
 
 ## Related
 
