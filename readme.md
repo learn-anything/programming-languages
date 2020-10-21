@@ -172,6 +172,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Myst](https://github.com/myst-lang/myst) - Structured, dynamic, general-purpose language.
 - [Wasp](https://github.com/wasp-lang/wasp) - Web Application Specification Language. Extensible DSL (domain-specific language) for building modern web apps with less code.
 - [Arturo](https://github.com/arturo-lang/arturo) - Simple, modern and powerful interpreted programming language for efficient scripting. ([Web](http://arturo-lang.io/))
+- [Horse64](https://github.com/horse64/core.horse64.org) - Simple & versatile high-level programming language. ([Web](https://horse64.org/))
 
 ## Related
 
