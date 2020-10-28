@@ -174,6 +174,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Arturo](https://github.com/arturo-lang/arturo) - Simple, modern and powerful interpreted programming language for efficient scripting. ([Web](http://arturo-lang.io/))
 - [Horse64](https://github.com/horse64/core.horse64.org) - Simple & versatile high-level programming language. ([Web](https://horse64.org/))
 - [wax](https://github.com/LingDong-/wax) - Tiny language that transpiles to C, Java and TypeScript. ([Web](https://waxc.netlify.app/))
+- [TypeLang](https://github.com/ronami/typelang) - Tiny language interpreter implemented purely in TypeScript's type-system.
 
 ## Related
 
