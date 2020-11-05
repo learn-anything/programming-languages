@@ -57,6 +57,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [F#](https://github.com/dotnet/fsharp) - Open-source, cross-platform functional programming language for .NET.
 - [Tyrade](https://github.com/willcrichton/tyrade) - Pure functional language for type-level programming in Rust.
 - [Unlambda](http://www.madore.org/~david/programs/unlambda/) - Minimal, "nearly pure" functional programming language invented by David Madore. Based on combinatory logic. ([Wiki](https://en.wikipedia.org/wiki/Unlambda))
+- [Fika](https://github.com/fika-lang/fika) - Statically typed functional programming language for the web.
 
 ## Lisp
 
