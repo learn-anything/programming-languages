@@ -176,6 +176,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Horse64](https://github.com/horse64/core.horse64.org) - Simple & versatile high-level programming language. ([Web](https://horse64.org/))
 - [wax](https://github.com/LingDong-/wax) - Tiny language that transpiles to C, Java and TypeScript. ([Web](https://waxc.netlify.app/))
 - [TypeLang](https://github.com/ronami/typelang) - Tiny language interpreter implemented purely in TypeScript's type-system.
+- [Pyxell](https://github.com/adamsol/Pyxell) - Multi-paradigm, statically typed programming language, compiled to machine code via C++. ([Docs](https://www.pyxell.org/docs/manual.html))
 
 ## Related
 
