@@ -155,7 +155,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Pyret](https://www.pyret.org/) - Python like scripting language. ([Code](https://github.com/brownplt/pyret-lang))
 - [Gosu](https://gosu-lang.github.io/) - Pragmatic language for the JVM. ([Code](https://github.com/gosu-lang/gosu-lang))
 - [Self](https://selflanguage.org/) - Prototype-based dynamic object-oriented programming language, environment, and virtual machine. ([Code](https://github.com/russellallen/self))
-- [Vale](https://vale.dev/) - Fast, safe, and easy programming language. It uses single ownership with constraint references for memory safety without garbage collection, and an emphasis on modern, readable syntax. ([Code](https://github.com/ValeLang/Vale)) ([HN](https://news.ycombinator.com/item?id=23865674))
+- [Vale](https://vale.dev/) - Fast, safe, and easy programming language. It uses single ownership with constraint references for memory safety without garbage collection, and an emphasis on modern, readable syntax. ([Code](https://github.com/ValeLang/Vale)) ([HN](https://news.ycombinator.com/item?id=23865674)) ([HN 2](https://news.ycombinator.com/item?id=25160202))
 - [Oak](https://github.com/adam-mcdaniel/oakc) - Portable programming language with an compact intermediate representation.
 - [Luau](https://roblox.github.io/luau/) - Fast, small, safe, gradually typed embeddable scripting language derived from Lua. ([FAQ](https://gist.github.com/zeux/bb646a63c02ff2828117092036d2d174)) ([HN](https://news.ycombinator.com/item?id=24059432))
 - [daScript](https://dascript.org/) - High-performance statically strong typed scripting language. ([HN](https://news.ycombinator.com/item?id=24166505))
