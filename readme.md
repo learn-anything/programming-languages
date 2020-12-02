@@ -178,6 +178,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [TypeLang](https://github.com/ronami/typelang) - Tiny language interpreter implemented purely in TypeScript's type-system.
 - [Pyxell](https://github.com/adamsol/Pyxell) - Multi-paradigm, statically typed programming language, compiled to machine code via C++. ([Docs](https://www.pyxell.org/docs/manual.html))
 - [Crunch](https://github.com/Kixiron/crunch-lang) - Strongly & statically typed systems level language focused on ease of use, portability and speed.
+- [Koto](https://github.com/koto-lang/koto) - Embeddable scripting language, written in Rust.
 
 ## Related
 
