@@ -181,6 +181,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Crunch](https://github.com/Kixiron/crunch-lang) - Strongly & statically typed systems level language focused on ease of use, portability and speed.
 - [Koto](https://github.com/koto-lang/koto) - Embeddable scripting language, written in Rust.
 - [Cant](https://github.com/darius/cant) - Programming language descended mainly from E and Scheme.
+- [Kempe](https://github.com/vmchale/kempe) - Stack-based language and toy compiler for x86_64.
 
 ## Related
 
