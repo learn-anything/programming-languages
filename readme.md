@@ -182,6 +182,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Koto](https://github.com/koto-lang/koto) - Embeddable scripting language, written in Rust.
 - [Cant](https://github.com/darius/cant) - Programming language descended mainly from E and Scheme.
 - [Kempe](https://github.com/vmchale/kempe) - Compiled stack-based language.
+- [Dora](https://github.com/dinfuehr/dora) - JIT-compiler for the programming language Dora implemented in Rust.
 
 ## Related
 
