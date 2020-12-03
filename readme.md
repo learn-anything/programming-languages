@@ -58,6 +58,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Tyrade](https://github.com/willcrichton/tyrade) - Pure functional language for type-level programming in Rust.
 - [Unlambda](http://www.madore.org/~david/programs/unlambda/) - Minimal, "nearly pure" functional programming language invented by David Madore. Based on combinatory logic. ([Wiki](https://en.wikipedia.org/wiki/Unlambda))
 - [Fika](https://github.com/fika-lang/fika) - Statically typed functional programming language for the web.
+- [Yeti](https://github.com/mth/yeti) - ML-like functional language for the JVM. ([Web](http://mth.github.io/yeti/))
 
 ## Lisp
 
