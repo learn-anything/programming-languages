@@ -183,6 +183,9 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Cant](https://github.com/darius/cant) - Programming language descended mainly from E and Scheme.
 - [Kempe](https://github.com/vmchale/kempe) - Compiled stack-based language.
 - [Dora](https://github.com/dinfuehr/dora) - JIT-compiler for the programming language Dora implemented in Rust.
+- [Butter](https://github.com/neverRare/butter) - Aims to be a concise and friendly language for building efficient software.
+- [Kinx](https://github.com/Kray-G/kinx) - Looks like JavaScript, feels like Ruby, and it is the script language fitting in C programmers.
+- [Icon](https://www2.cs.arizona.edu/icon/ftp/doc/lb1up.pdf) - Programming language with a focus on string manipulation. ([Lobsters](https://lobste.rs/s/qendox/icon_programming_language))
 
 ## Related
 
