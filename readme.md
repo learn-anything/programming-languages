@@ -187,6 +187,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Kinx](https://github.com/Kray-G/kinx) - Looks like JavaScript, feels like Ruby, and it is the script language fitting in C programmers.
 - [Icon](https://www2.cs.arizona.edu/icon/ftp/doc/lb1up.pdf) - Programming language with a focus on string manipulation. ([Lobsters](https://lobste.rs/s/qendox/icon_programming_language))
 - [Nelua](https://github.com/edubart/nelua-lang) - Minimal, efficient, statically-typed and meta-programmable systems programming language heavily inspired by Lua, which compiles to C and native code. ([Web](https://nelua.io/))
+- [Fractran](https://en.wikipedia.org/wiki/FRACTRAN) - Turing-complete esoteric programming language invented by the mathematician John Conway. ([Notes](https://wiki.xxiivv.com/site/fractran.html)) ([Fractran Interpreter](https://merveilles.town/web/statuses/105357795783765822))
 
 ## Related
 
