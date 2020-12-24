@@ -189,6 +189,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Nelua](https://github.com/edubart/nelua-lang) - Minimal, efficient, statically-typed and meta-programmable systems programming language heavily inspired by Lua, which compiles to C and native code. ([Web](https://nelua.io/))
 - [Fractran](https://en.wikipedia.org/wiki/FRACTRAN) - Turing-complete esoteric programming language invented by the mathematician John Conway. ([Notes](https://wiki.xxiivv.com/site/fractran.html)) ([Fractran Interpreter](https://merveilles.town/web/statuses/105357795783765822))
 - [Zeta](https://github.com/zeta-lang/zeta) - Scripting language designed for efficiency, enabling dynamic extension and modification of high performance software.
+- [Kuljet](https://kuljet.com/) - Language for writing database-backed HTML applications. ([Code](https://github.com/KMahoney/kuljet))
 
 ## Related
 
