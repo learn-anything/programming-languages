@@ -19,7 +19,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Eta](https://github.com/typelead/eta) - Dialect of Haskell on the JVM.
 - [Eve](https://github.com/witheve/Eve) - Programming language based on years of research into building a human-first programming platform.
 - [F\*](https://fstar-lang.org/#introduction) - General-purpose functional programming language with effects aimed at program verification.
-- [Flix](https://github.com/flix/flix) - Statically typed functional- and logic programming language inspired by Scala, OCaml, F#, Haskell, and Datalog.
+- [Flix](https://github.com/flix/flix) - Statically typed functional- and logic programming language inspired by Scala, OCaml, F#, Haskell, and Datalog. ([Web](https://flix.dev/))
 - [Futhark](https://github.com/diku-dk/futhark) - Purely functional data-parallel programming language. Its optimising compiler is able to compile it to typically very performant GPU code.
 - [Haskell](https://www.haskell.org/) - Advanced, purely functional programming language.
 - [Ocaml](https://ocaml.org/) - Industrial strength language supporting functional, imperative and object-oriented styles.
@@ -59,6 +59,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Unlambda](http://www.madore.org/~david/programs/unlambda/) - Minimal, "nearly pure" functional programming language invented by David Madore. Based on combinatory logic. ([Wiki](https://en.wikipedia.org/wiki/Unlambda))
 - [Fika](https://github.com/fika-lang/fika) - Statically typed functional programming language for the web.
 - [Yeti](https://github.com/mth/yeti) - ML-like functional language for the JVM. ([Web](http://mth.github.io/yeti/))
+- [Nazo ML](https://github.com/cannorin/nml) - Experimental implementation of temporal-logic-based Hindley-Milner type system.
 
 ## Lisp
 
@@ -89,6 +90,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 - [dogescript](https://github.com/dogescript/dogescript) - Wow so syntax very doge much future.
 - [C-plus-Equality](https://github.com/ErisBlastar/cplusequality) - Feminist programming language.
+- [ArnoldC](https://github.com/lhartikk/ArnoldC) - Programming language based on the one-liners of Arnold Schwarzenegger.
 
 ## Other
 
