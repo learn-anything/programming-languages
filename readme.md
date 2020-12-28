@@ -190,6 +190,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Fractran](https://en.wikipedia.org/wiki/FRACTRAN) - Turing-complete esoteric programming language invented by the mathematician John Conway. ([Notes](https://wiki.xxiivv.com/site/fractran.html)) ([Fractran Interpreter](https://merveilles.town/web/statuses/105357795783765822))
 - [Zeta](https://github.com/zeta-lang/zeta) - Scripting language designed for efficiency, enabling dynamic extension and modification of high performance software.
 - [Kuljet](https://kuljet.com/) - Language for writing database-backed HTML applications. ([Code](https://github.com/KMahoney/kuljet))
+- [Skew](https://github.com/evanw/skew) - Web-first, cross-platform programming language with an optimizing compiler. ([Code](https://github.com/evanw/skew))
 
 ## Related
 
