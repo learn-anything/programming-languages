@@ -60,6 +60,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Fika](https://github.com/fika-lang/fika) - Statically typed functional programming language for the web.
 - [Yeti](https://github.com/mth/yeti) - ML-like functional language for the JVM. ([Web](http://mth.github.io/yeti/))
 - [Nazo ML](https://github.com/cannorin/nml) - Experimental implementation of temporal-logic-based Hindley-Milner type system.
+- [Dynasty](https://github.com/aionescu/dynasty) - Interpreted, dynamically-typed, lazily evaluated, purely functional programming language.
 
 ## Lisp
 
