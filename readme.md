@@ -194,6 +194,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Zeta](https://github.com/zeta-lang/zeta) - Scripting language designed for efficiency, enabling dynamic extension and modification of high performance software.
 - [Kuljet](https://kuljet.com/) - Language for writing database-backed HTML applications. ([Code](https://github.com/KMahoney/kuljet))
 - [Skew](https://github.com/evanw/skew) - Web-first, cross-platform programming language with an optimizing compiler. ([Code](https://github.com/evanw/skew))
+- [Copper](https://tibleiz.net/copper/index.html) - Experimental programming language that can be used as a replacement to C and C++.
 
 ## Related
 
