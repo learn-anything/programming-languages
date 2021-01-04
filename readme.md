@@ -195,7 +195,6 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Kuljet](https://kuljet.com/) - Language for writing database-backed HTML applications. ([Code](https://github.com/KMahoney/kuljet))
 - [Skew](https://github.com/evanw/skew) - Web-first, cross-platform programming language with an optimizing compiler. ([Code](https://github.com/evanw/skew))
 - [Copper](https://tibleiz.net/copper/index.html) - Experimental programming language that can be used as a replacement to C and C++.
-- [h](https://h.christine.website/) - Simple, fast, open-source, complete and safe language for developing modern software for the web.
 - [CLU](https://codelani.com/languages/clu.html) - Programming language created at MIT.
 - [q](https://github.com/akyoto/q) - Programming language focusing on performance and efficiency.
 
