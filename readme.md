@@ -199,6 +199,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [q](https://github.com/akyoto/q) - Programming language focusing on performance and efficiency.
 - [Lama](https://github.com/JetBrains-Research/Lama) - Programming language developed by JetBrains Research for educational purposes as an exemplary language to introduce the domain of programming languages, compilers and tools.
 - [Ghost](https://github.com/ghost-language/ghost) - Small, class-based scripting language. ([Web](https://ghostlang.org/))
+- [Ein](https://github.com/ein-lang/ein) - Functional programming language for scalable development.
 
 ## Related
 
