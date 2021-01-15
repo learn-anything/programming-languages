@@ -201,6 +201,8 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Ghost](https://github.com/ghost-language/ghost) - Small, class-based scripting language. ([Web](https://ghostlang.org/))
 - [Ein](https://github.com/ein-lang/ein) - Functional programming language for scalable development.
 - [Alan](https://github.com/alantech/alan) - Programming language that does concurrency for you and can thus separate how the software is written from how it runs.
+- [Ella](https://github.com/lukechu10/ellalang) - Computer programming language interpreter written in Rust.
+- [Nixt](https://github.com/Wafelack/nixt) - Interpreted lisp inspired programming language written in Rust.
 
 ## Related
 
