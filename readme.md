@@ -203,6 +203,8 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Alan](https://github.com/alantech/alan) - Programming language that does concurrency for you and can thus separate how the software is written from how it runs.
 - [Ella](https://github.com/lukechu10/ellalang) - Computer programming language interpreter written in Rust.
 - [Nixt](https://github.com/Wafelack/nixt) - Interpreted lisp inspired programming language written in Rust.
+- [Manticore](https://github.com/ManticoreProject/manticore) - High-level parallel programming language aimed at general-purpose applications running on multi-core processors. ([Web](http://manticore.cs.uchicago.edu/))
+- [BIPLAN](https://github.com/gioblu/BIPLAN) - Byte coded Interpreted Programming language.
 
 ## Related
 
