@@ -81,6 +81,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Haxe](https://github.com/HaxeFoundation/haxe) - High-level and strictly-typed, cross-compiles to many different targets.
 - [JavaScript](http://en.wikipedia.org/wiki/JavaScript) - High-level, dynamic, weakly typed, prototype-based, multi-paradigm, and interpreted.
 - [Julia](https://github.com/JuliaLang/julia) - High-level, high-performance dynamic language for technical computing.
+- [Nim](https://github.com/nim-lang/nim) - Both high-level and systems-level language, with productivity of Python, performance of C and meta-programming of Lisp.
 - [Objective C](http://en.wikipedia.org/wiki/Objective-C) - General-purpose and object-oriented, adds Smalltalk-style messaging to the C programming language.
 - [Python](https://github.com/python/cpython) - Interpreted high-level language for general-purpose programming.
 - [Swift](https://github.com/apple/swift) - General-purpose, multi-paradigm, compiled programming language.
