@@ -48,7 +48,6 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Never](https://github.com/never-lang/never) - Statically typed, embedded functional programming language.
 - [Functa](https://github.com/dragostis/Functa) - Flexible, fully functional dynamic programming language.
 - [Pikelet](https://github.com/pikelet-lang/pikelet) - Small, functional, dependently typed programming language.
-- [Chaos](https://github.com/chaos-lang/chaos) - Purely functional programming language that achieves zero cyclomatic complexity. ([HN](https://news.ycombinator.com/item?id=22940265))
 - [Spiral](https://github.com/mrakgr/The-Spiral-Language) - Functional language with intensional polymorphism and first-class staging.
 - [Neut](https://github.com/u2zv1wx/neut) - Dependently-typed programming language based on the Calculus of Constructions. ([HN](https://news.ycombinator.com/item?id=23283880))
 - [Salt](https://github.com/discus-lang/salt) - Compilation target that functional programmers always wanted.
@@ -76,6 +75,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 ## Multi paradigm
 
 - [C](<http://en.wikipedia.org/wiki/C_(programming_language)>) - General-purpose, imperative, supporting structured programming, lexical variable scope and recursion, while a static type system prevents many unintended operations.
+- [Chaos](https://github.com/chaos-lang/chaos) - Strongly typed, dynamic yet compilable, test-oriented procedural programming language that achieves zero cyclomatic complexity. ([HN](https://news.ycombinator.com/item?id=22940265))
 - [D](https://dlang.org/) - General-purpose programming language with static typing, systems-level access, and C-like syntax.
 - [Go](https://github.com/golang/go) - Compiled, statically typed in the tradition of Algol and C, with garbage collection, limited structural typing, memory safety features and CSP-style concurrent programming features added.
 - [Haxe](https://github.com/HaxeFoundation/haxe) - High-level and strictly-typed, cross-compiles to many different targets.
