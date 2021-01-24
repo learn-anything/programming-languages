@@ -206,6 +206,8 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Nixt](https://github.com/Wafelack/nixt) - Interpreted lisp inspired programming language written in Rust.
 - [Manticore](https://github.com/ManticoreProject/manticore) - High-level parallel programming language aimed at general-purpose applications running on multi-core processors. ([Web](http://manticore.cs.uchicago.edu/))
 - [BIPLAN](https://github.com/gioblu/BIPLAN) - Byte coded Interpreted Programming language.
+- [Ogol](https://github.com/fcanas/ogol) - Variant of the Logo computer language.
+- [Bog](https://github.com/Vexu/bog) - Small, strongly typed, embeddable language. Written in Zig.
 
 ## Related
 
