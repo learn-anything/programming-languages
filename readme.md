@@ -209,6 +209,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [BIPLAN](https://github.com/gioblu/BIPLAN) - Byte coded Interpreted Programming language.
 - [Ogol](https://github.com/fcanas/ogol) - Variant of the Logo computer language.
 - [Bog](https://github.com/Vexu/bog) - Small, strongly typed, embeddable language. Written in Zig.
+- [Shen/Go](https://github.com/tiancaiamao/shen-go) - Go port of the Shen language.
 
 ## Related
 
