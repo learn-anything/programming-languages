@@ -210,6 +210,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Ogol](https://github.com/fcanas/ogol) - Variant of the Logo computer language.
 - [Bog](https://github.com/Vexu/bog) - Small, strongly typed, embeddable language. Written in Zig.
 - [Shen/Go](https://github.com/tiancaiamao/shen-go) - Go port of the Shen language.
+- [Cairo](https://github.com/starkware-libs/cairo-lang) - Programming language for writing provable programs. ([Web](https://www.cairo-lang.org/))
 
 ## Related
 
