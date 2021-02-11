@@ -178,7 +178,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [\_hyperscript](https://github.com/bigskysoftware/_hyperscript) - Small scripting language for the web.
 - [Neon](https://neon-lang.dev/) - High-level, statically typed, garbage collected, imperative programming language intended for teaching and learning the craft of programming. ([Code](https://github.com/ghewgill/neon-lang))
 - [Myst](https://github.com/myst-lang/myst) - Structured, dynamic, general-purpose language.
-- [Wasp](https://github.com/wasp-lang/wasp) - Web Application Specification Language. Extensible DSL (domain-specific language) for building modern web apps with less code.
+- [Wasp](https://github.com/wasp-lang/wasp) - Web Application Specification Language. Extensible DSL (domain-specific language) for building modern web apps with less code. ([Web](https://wasp-lang.dev/)) ([HN](https://news.ycombinator.com/item?id=26091956))
 - [Arturo](https://github.com/arturo-lang/arturo) - Simple, modern and powerful interpreted programming language for efficient scripting. ([Web](http://arturo-lang.io/))
 - [Horse64](https://github.com/horse64/core.horse64.org) - Simple & versatile high-level programming language. ([Web](https://horse64.org/))
 - [wax](https://github.com/LingDong-/wax) - Tiny language that transpiles to C, Java and TypeScript. ([Web](https://waxc.netlify.app/))
