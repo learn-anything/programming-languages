@@ -61,6 +61,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Nazo ML](https://github.com/cannorin/nml) - Experimental implementation of temporal-logic-based Hindley-Milner type system.
 - [Dynasty](https://github.com/aionescu/dynasty) - Interpreted, dynamically-typed, lazily evaluated, purely functional programming language.
 - [Atto](https://github.com/zesterer/atto) - Insanely simple self-hosted functional programming language.
+- [Lawvere](https://github.com/jameshaydon/lawvere) - Categorical programming language.
 
 ## Lisp
 
