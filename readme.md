@@ -214,6 +214,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Shen/Go](https://github.com/tiancaiamao/shen-go) - Go port of the Shen language.
 - [Cairo](https://github.com/starkware-libs/cairo-lang) - Programming language for writing provable programs. ([Web](https://www.cairo-lang.org/))
 - [Starlark in Rust](https://github.com/facebookexperimental/starlark-rust) - Deterministic language inspired by Python3, used for configuration in the build systems Bazel and Buck.
+- [Dip](http://www.dip-lang.org/) - Dynamically typed interpreted programming language written in Python, which gives emphasis to readability and ease of use, while also providing the power of all of python’s libraries. ([Code](https://github.com/raghavnautiyal/Dip))
 
 ## Related
 
