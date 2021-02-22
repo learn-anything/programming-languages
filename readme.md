@@ -216,6 +216,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Starlark in Rust](https://github.com/facebookexperimental/starlark-rust) - Deterministic language inspired by Python3, used for configuration in the build systems Bazel and Buck.
 - [Dip](http://www.dip-lang.org/) - Dynamically typed interpreted programming language written in Python, which gives emphasis to readability and ease of use, while also providing the power of all of python’s libraries. ([Code](https://github.com/raghavnautiyal/Dip))
 - [Mint](https://www.mint-lang.com/) - Refreshing programming language for the front-end web. ([Code](https://github.com/mint-lang/mint)) ([Lobsters](https://lobste.rs/s/78fixr/mint_refreshing_programming_language))
+- [Whiley](http://whiley.org/) - Programming Language with Extended Static Checking. ([Code](https://github.com/Whiley/WhileyCompiler))
 
 ## Related
 
