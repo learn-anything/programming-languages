@@ -218,6 +218,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Mint](https://www.mint-lang.com/) - Refreshing programming language for the front-end web. ([Code](https://github.com/mint-lang/mint)) ([Lobsters](https://lobste.rs/s/78fixr/mint_refreshing_programming_language))
 - [Whiley](http://whiley.org/) - Programming Language with Extended Static Checking. ([Code](https://github.com/Whiley/WhileyCompiler))
 - [Passerine](https://github.com/vrtbl/passerine) - Small, concise, extensible functional scripting language, powered by a VM written in Rust. ([Web](https://www.passerine.io/)) ([HN](https://news.ycombinator.com/item?id=26212491))
+- [io](https://github.com/IoLanguage/io) - Programming language. Inspired by Self, Smalltalk and LISP. ([Web](https://iolanguage.org/))
 
 ## Related
 
