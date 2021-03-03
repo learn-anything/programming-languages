@@ -220,7 +220,8 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Whiley](http://whiley.org/) - Programming Language with Extended Static Checking. ([Code](https://github.com/Whiley/WhileyCompiler))
 - [Passerine](https://github.com/vrtbl/passerine) - Small, concise, extensible functional scripting language, powered by a VM written in Rust. ([Web](https://www.passerine.io/)) ([HN](https://news.ycombinator.com/item?id=26212491))
 - [io](https://github.com/IoLanguage/io) - Programming language. Inspired by Self, Smalltalk and LISP. ([Web](https://iolanguage.org/))
-- [Microsoft Power-Fx](https://github.com/microsoft/Power-Fx) - Low-code general purpose programming language. ([HN](https://news.ycombinator.com/item?id=26324347))
+- [Power-Fx](https://github.com/microsoft/Power-Fx) - Low-code general purpose programming language. ([HN](https://news.ycombinator.com/item?id=26324347))
+- [SmallDragon](https://github.com/pointbazaar/smalldragon) - Simple, statically typed programming language that can be transpiled to C. ([Web](https://smalldragon.org/))
 
 ## Related
 
