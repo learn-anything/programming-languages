@@ -62,6 +62,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Dynasty](https://github.com/aionescu/dynasty) - Interpreted, dynamically-typed, lazily evaluated, purely functional programming language.
 - [Atto](https://github.com/zesterer/atto) - Insanely simple self-hosted functional programming language.
 - [Lawvere](https://github.com/jameshaydon/lawvere) - Categorical programming language with effects.
+- [Leo](https://github.com/AleoHQ/leo) - Functional, statically-typed programming language built for writing private applications.
 
 ## Lisp
 
