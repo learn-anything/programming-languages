@@ -63,6 +63,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Atto](https://github.com/zesterer/atto) - Insanely simple self-hosted functional programming language.
 - [Lawvere](https://github.com/jameshaydon/lawvere) - Categorical programming language with effects.
 - [Leo](https://github.com/AleoHQ/leo) - Functional, statically-typed programming language built for writing private applications.
+- [Effekt](https://github.com/effekt-lang/effekt) - Research language with effect handlers and lightweight effect polymorphism. ([Web](https://effekt-lang.org/))
 
 ## Lisp
 
