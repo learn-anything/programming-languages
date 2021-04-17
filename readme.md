@@ -65,6 +65,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Leo](https://github.com/AleoHQ/leo) - Functional, statically-typed programming language built for writing private applications.
 - [Effekt](https://github.com/effekt-lang/effekt) - Research language with effect handlers and lightweight effect polymorphism. ([Web](https://effekt-lang.org/))
 - [Facet](https://github.com/facet-lang/facet) - Call-by-value functional language with algebraic effects, quantitative type theory, and staging.
+- [Mlatu](https://github.com/brightly-salty/mlatu) - Statically typed, stack-based purely functional programming language designed for simplicity, speed, and safety.
 
 ## Lisp
 
