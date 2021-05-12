@@ -229,6 +229,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Egison](https://www.egison.org/) - Programming language that features extensible efficient non-linear pattern matching with backtracking for non-free data types. ([Code](https://github.com/egison/egison))
 - [Kitten](http://kittenlang.org/) - Statically typed, stack-based functional programming language designed to be simple and fast. ([Code](https://github.com/evincarofautumn/kitten/))
 - [Luxury](https://github.com/strawberryhacker/luxury) - Statically programming language which is targeting embedded programming.
+- [Oxide](https://github.com/tuqqu/oxide-lang) - Interpreted scripting language with a Rust influenced syntax.
 
 ## Related
 
