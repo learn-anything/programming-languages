@@ -230,6 +230,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Kitten](http://kittenlang.org/) - Statically typed, stack-based functional programming language designed to be simple and fast. ([Code](https://github.com/evincarofautumn/kitten/))
 - [Luxury](https://github.com/strawberryhacker/luxury) - Statically programming language which is targeting embedded programming.
 - [Oxide](https://github.com/tuqqu/oxide-lang) - Interpreted scripting language with a Rust influenced syntax.
+- [Umka](https://github.com/vtereshkov/umka-lang) - Statically typed embeddable scripting language.
 
 ## Related
 
