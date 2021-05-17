@@ -231,6 +231,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Luxury](https://github.com/strawberryhacker/luxury) - Statically programming language which is targeting embedded programming.
 - [Oxide](https://github.com/tuqqu/oxide-lang) - Interpreted scripting language with a Rust influenced syntax.
 - [Umka](https://github.com/vtereshkov/umka-lang) - Statically typed embeddable scripting language.
+- [Hexagony](https://esolangs.org/wiki/Hexagony) - Two-dimensional stack-based programming language. ([Hexagony IDE](https://hexagony.net/))
 
 ## Related
 
