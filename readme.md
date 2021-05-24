@@ -233,6 +233,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Umka](https://github.com/vtereshkov/umka-lang) - Statically typed embeddable scripting language.
 - [Hexagony](https://esolangs.org/wiki/Hexagony) - Two-dimensional stack-based programming language. ([Hexagony IDE](https://hexagony.net/))
 - [Kernel](https://web.cs.wpi.edu/~jshutt/kernel.html) - Conservative, Scheme-like dialect of Lisp in which everything is a first-class object.
+- [F--](https://github.com/raviqqe/fmm) - Uncurried minimal functional programming language.
 
 ## Related
 
