@@ -236,6 +236,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Kernel](https://web.cs.wpi.edu/~jshutt/kernel.html) - Conservative, Scheme-like dialect of Lisp in which everything is a first-class object.
 - [F--](https://github.com/raviqqe/fmm) - Uncurried minimal functional programming language.
 - [vizh](https://github.com/TartanLlama/vizh) - Esoteric visual language that takes image files as input based on a multi-tape turing machine, designed for compatibility with C.
+- [tin](https://github.com/dflemstr/tin) - Statically structurally typed JIT-compiled programming language, mainly for embedding in other programs.
 
 ## Related
 
