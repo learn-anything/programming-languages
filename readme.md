@@ -237,6 +237,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [F--](https://github.com/raviqqe/fmm) - Uncurried minimal functional programming language.
 - [vizh](https://github.com/TartanLlama/vizh) - Esoteric visual language that takes image files as input based on a multi-tape turing machine, designed for compatibility with C.
 - [tin](https://github.com/dflemstr/tin) - Statically structurally typed JIT-compiled programming language, mainly for embedding in other programs.
+- [Flax](https://github.com/flax-lang/flax) - Level, general-purpose language with high level syntax and expressibility.
 
 ## Related
 
