@@ -238,6 +238,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [vizh](https://github.com/TartanLlama/vizh) - Esoteric visual language that takes image files as input based on a multi-tape turing machine, designed for compatibility with C.
 - [tin](https://github.com/dflemstr/tin) - Statically structurally typed JIT-compiled programming language, mainly for embedding in other programs.
 - [Flax](https://github.com/flax-lang/flax) - Level, general-purpose language with high level syntax and expressibility.
+- [Pocketlang](https://github.com/ThakeeNathees/pocketlang) - Small, fast and friendly language for scripting and embedding. ([Web](https://thakeenathees.github.io/pocketlang/)) ([HN](https://news.ycombinator.com/item?id=27588842))
 
 ## Related
 
