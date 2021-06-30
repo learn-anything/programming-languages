@@ -113,6 +113,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Bosque](https://github.com/Microsoft/BosqueLanguage) - Experiment in regularized design for a machine assisted rapid and reliable software development lifecycle. ([HN](https://news.ycombinator.com/item?id=23175280))
 - [PowerShell](https://github.com/PowerShell/PowerShell) - Cross-platform strongly dynamic typed object-based with functional features automation and configuration language.
 - [Red](https://github.com/red/red) - Strongly inspired by Rebol, but with a broader field of usage thanks to its native-code compiler, from system programming to high-level scripting and cross-platform reactive GUI. ([Web](https://www.red-lang.org/p/about.html))
+- [pocketlang](https://github.com/ThakeeNathees/pocketlang) - Small, fast, and friendly language for scripting and embedding.
 - [Pony](https://www.ponylang.io/) - Open-source, object-oriented, actor-model, capabilities-secure, high-performance programming language. ([Code](https://github.com/ponylang/ponyc))
 - [Mare](https://github.com/jemc/mare) - Reimagining of the Pony language in Crystal.
 - [Clay](https://github.com/jckarter/clay) - Programming language designed for Generic Programming.
