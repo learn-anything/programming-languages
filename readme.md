@@ -68,6 +68,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Mlatu](https://github.com/brightly-salty/mlatu) - Statically typed, stack-based purely functional programming language designed for simplicity, speed, and safety.
 - [Grace](https://github.com/Gabriel439/grace) - Ready-to-fork interpreted, typed, and functional language.
 - [TAMGU](https://github.com/naver/tamgu) - FIL programming language: Functional, Imperative, Logical all in one for annotation and data augmentation.
+- [Clio](https://github.com/clio-lang/clio) - Functional, parallel, distributed programming language. ([Web](https://clio-lang.org/))
 
 ## Lisp
 
