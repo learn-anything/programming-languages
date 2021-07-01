@@ -241,6 +241,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Pocketlang](https://github.com/ThakeeNathees/pocketlang) - Small, fast and friendly language for scripting and embedding. ([Web](https://thakeenathees.github.io/pocketlang/)) ([HN](https://news.ycombinator.com/item?id=27588842))
 - [Ballerina](https://github.com/ballerina-platform/ballerina-lang) - Open-source programming language for the cloud that makes it easier to use, combine, and create network services. ([Web](https://ballerina.io/))
 - [LoLa](https://github.com/MasterQ32/LoLa) - Small programming language meant to be embedded into games. ([Web](https://lola.random-projects.net/))
+- [Antimony](https://github.com/antimony-lang/antimony) - Language that gets out of your way. ([Docs](https://antimony-lang.github.io/antimony/))
 
 ## Related
 
