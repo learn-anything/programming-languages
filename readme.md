@@ -80,6 +80,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Janet](https://github.com/janet-lang/janet) - Functional and imperative programming language and bytecode interpreter.
 - [Carp](https://github.com/carp-lang/Carp) - Statically typed lisp, without a GC, for real-time applications. ([Snippets](https://github.com/carpentry-org/snippets))
 - [Urn](https://urn-lang.com/) - Lisp implementation for Lua. ([Code](https://github.com/SquidDev/urn)) ([Lobsters](https://lobste.rs/s/qzubyo/urn_lisp_implementation_for_lua))
+- [llrl](https://github.com/yubrot/llrl) - Lisp-like programming language powered by Rust + LLVM.
 
 ## Multi paradigm
 
