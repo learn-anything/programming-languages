@@ -69,6 +69,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Grace](https://github.com/Gabriel439/grace) - Ready-to-fork interpreted, typed, and functional language.
 - [TAMGU](https://github.com/naver/tamgu) - FIL programming language: Functional, Imperative, Logical all in one for annotation and data augmentation.
 - [Clio](https://github.com/clio-lang/clio) - Functional, parallel, distributed programming language. ([Web](https://clio-lang.org/))
+- [morloc](https://github.com/morloc-project/morloc) - Typed, polyglot, functional language.
 
 ## Lisp
 
