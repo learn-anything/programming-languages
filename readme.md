@@ -246,6 +246,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [LoLa](https://github.com/MasterQ32/LoLa) - Small programming language meant to be embedded into games. ([Web](https://lola.random-projects.net/))
 - [Antimony](https://github.com/antimony-lang/antimony) - Language that gets out of your way. ([Docs](https://antimony-lang.github.io/antimony/))
 - [Astro](https://github.com/astrolang/astro) - Fun safe language for rapid prototyping and high performance applications.
+- [Foolang](https://github.com/nikodemus/foolang) - Smalltalk-inspired language. ([Web](https://foolang.org/#/))
 
 ## Related
 
