@@ -248,6 +248,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Astro](https://github.com/astrolang/astro) - Fun safe language for rapid prototyping and high performance applications.
 - [Foolang](https://github.com/nikodemus/foolang) - Smalltalk-inspired language. ([Web](https://foolang.org/#/))
 - [Rust](https://www.rust-lang.org/) - Multi-paradigm, high-level, general-purpose programming language designed for performance and safety, especially safe concurrency.
+- [Emojicode](https://www.emojicode.org/) - Open-source, full-blown programming language consisting of emojis. ([Code](https://github.com/emojicode/emojicode))
 
 ## Related
 
