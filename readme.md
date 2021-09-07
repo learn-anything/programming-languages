@@ -250,6 +250,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Rust](https://www.rust-lang.org/) - Multi-paradigm, high-level, general-purpose programming language designed for performance and safety, especially safe concurrency.
 - [Emojicode](https://www.emojicode.org/) - Open-source, full-blown programming language consisting of emojis. ([Code](https://github.com/emojicode/emojicode))
 - [EO](https://github.com/cqfn/eo) - Experimental Object-Oriented Programming Language Based on 𝜑-Calculus. ([HN](https://news.ycombinator.com/item?id=28423328))
+- [Oak](https://oaklang.org/) - Expressive, simple, dynamic programming language. ([Code](https://github.com/thesephist/oak))
 
 ## Related
 
