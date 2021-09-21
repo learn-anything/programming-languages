@@ -252,6 +252,8 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [EO](https://github.com/cqfn/eo) - Experimental Object-Oriented Programming Language Based on 𝜑-Calculus. ([HN](https://news.ycombinator.com/item?id=28423328))
 - [Oak](https://oaklang.org/) - Expressive, simple, dynamic programming language. ([Code](https://github.com/thesephist/oak))
 - [Bagel](https://github.com/brundonsmith/bagel) - Statically typed, reactive language with pure and impure functions. ([Article](https://www.brandons.me/blog/the-bagel-language))
+- [Pen](https://pen-lang.org/) - Programming language for scalable development. ([Code](https://github.com/pen-lang/pen)) ([HN](https://news.ycombinator.com/item?id=28590209))
+- [Hedy](https://github.com/Felienne/hedy) - Gradual programming language, which increases in syntactic elements level by level. ([Web](https://www.hedycode.com/))
 
 ## Related
 
