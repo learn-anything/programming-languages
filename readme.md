@@ -257,6 +257,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Hedy](https://github.com/Felienne/hedy) - Gradual programming language, which increases in syntactic elements level by level. ([Web](https://www.hedycode.com/))
 - [buzz](https://github.com/giann/buzz) - Small/lightweight typed scripting language written in Zig.
 - [Lore](https://github.com/marcopennekamp/lore) - General-purpose programming language featuring multi-functions, structs and traits, structural typing enabling component-based programming, and intersection and semantic types.
+- [L2](https://github.com/murisi/L2) - Minimalist type-inferred programming language with procedural macro support.
 
 ## Related
 
