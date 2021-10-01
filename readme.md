@@ -83,6 +83,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Urn](https://urn-lang.com/) - Lisp implementation for Lua. ([Code](https://github.com/SquidDev/urn)) ([Lobsters](https://lobste.rs/s/qzubyo/urn_lisp_implementation_for_lua))
 - [llrl](https://github.com/yubrot/llrl) - Lisp-like programming language powered by Rust + LLVM.
 - [Ketos](https://github.com/murarth/ketos) - Lisp dialect scripting and extension language for Rust programs. ([HN](https://news.ycombinator.com/item?id=28616475))
+- [Lux](https://github.com/LuxLang/lux) - Functional, statically-typed Lisp that will run on several platforms, such as the Java Virtual Machine and JavaScript interpreters.
 
 ## Multi paradigm
 
@@ -258,6 +259,8 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [buzz](https://github.com/giann/buzz) - Small/lightweight typed scripting language written in Zig.
 - [Lore](https://github.com/marcopennekamp/lore) - General-purpose programming language featuring multi-functions, structs and traits, structural typing enabling component-based programming, and intersection and semantic types.
 - [L2](https://github.com/murisi/L2) - Minimalist type-inferred programming language with procedural macro support.
+- [GLICOL](https://github.com/chaosprint/glicol) - Graph-oriented live coding language written in Rust. Make music with code. ([Web](https://glicol.org/))
+- [Virgil](https://github.com/titzer/virgil) - Fast and lightweight native programming language designed for fast, dependency-free programs. ([Lobsters](https://lobste.rs/s/lisdkp/virgil_fast_lightweight_native))
 
 ## Related
 
