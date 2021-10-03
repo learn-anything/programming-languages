@@ -84,6 +84,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [llrl](https://github.com/yubrot/llrl) - Lisp-like programming language powered by Rust + LLVM.
 - [Ketos](https://github.com/murarth/ketos) - Lisp dialect scripting and extension language for Rust programs. ([HN](https://news.ycombinator.com/item?id=28616475))
 - [Lux](https://github.com/LuxLang/lux) - Functional, statically-typed Lisp that will run on several platforms, such as the Java Virtual Machine and JavaScript interpreters.
+- [Liz](https://github.com/dundalek/liz) - Lisp-flavored general-purpose programming language (based on Zig).
 
 ## Multi paradigm
 
