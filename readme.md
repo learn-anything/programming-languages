@@ -264,6 +264,8 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Virgil](https://github.com/titzer/virgil) - Fast and lightweight native programming language designed for fast, dependency-free programs. ([Lobsters](https://lobste.rs/s/lisdkp/virgil_fast_lightweight_native))
 - [Silk](https://github.com/AjayMT/silk) - Small system programming language. Flexible and simple as C, but more pleasant to write. ([Web](https://ajaymt.github.io/silk/))
 - [Lia](https://github.com/willcrichton/lia) - High-Level Language for Rust.
+- [Kara](https://github.com/MaxDesiatov/Kara) - Experimental programming language inspired by Swift and Idris.
+- [Acton](https://github.com/actonlang/acton) - Compiled language, offering the speed of C but with a considerably simpler programming model.
 
 ## Related
 
