@@ -266,6 +266,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Lia](https://github.com/willcrichton/lia) - High-Level Language for Rust.
 - [Kara](https://github.com/MaxDesiatov/Kara) - Experimental programming language inspired by Swift and Idris.
 - [Acton](https://github.com/actonlang/acton) - Compiled language, offering the speed of C but with a considerably simpler programming model.
+- [Peregrine](https://github.com/peregrine-lang/Peregrine) - Easy to use systems programming language with Python-like syntax.
 
 ## Related
 
