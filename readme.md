@@ -267,6 +267,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Kara](https://github.com/MaxDesiatov/Kara) - Experimental programming language inspired by Swift and Idris.
 - [Acton](https://github.com/actonlang/acton) - Compiled language, offering the speed of C but with a considerably simpler programming model.
 - [Peregrine](https://github.com/peregrine-lang/Peregrine) - Easy to use systems programming language with Python-like syntax.
+- [Ć](https://github.com/pfusik/cito) - Language which can be translated automatically to C, C++, C#, Java, JavaScript, Python, Swift, TypeScript and OpenCL C. ([HN](https://news.ycombinator.com/item?id=28805825))
 
 ## Related
 
