@@ -268,6 +268,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Acton](https://github.com/actonlang/acton) - Compiled language, offering the speed of C but with a considerably simpler programming model.
 - [Peregrine](https://github.com/peregrine-lang/Peregrine) - Easy to use systems programming language with Python-like syntax.
 - [Ć](https://github.com/pfusik/cito) - Language which can be translated automatically to C, C++, C#, Java, JavaScript, Python, Swift, TypeScript and OpenCL C. ([HN](https://news.ycombinator.com/item?id=28805825))
+- [SourcePawn](https://github.com/alliedmodders/sourcepawn) - Small and fast typed language for embedding in host applications.
 
 ## Related
 
