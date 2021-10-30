@@ -270,6 +270,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Ć](https://github.com/pfusik/cito) - Language which can be translated automatically to C, C++, C#, Java, JavaScript, Python, Swift, TypeScript and OpenCL C. ([HN](https://news.ycombinator.com/item?id=28805825))
 - [SourcePawn](https://github.com/alliedmodders/sourcepawn) - Small and fast typed language for embedding in host applications.
 - [Austral](https://github.com/austral/austral) - Systems language with linear types.
+- [Kara](https://github.com/1whatleytay/kara) - Statically typed, LLVM-based programming language. It's designed to be fast and easy to use.
 
 ## Related
 
