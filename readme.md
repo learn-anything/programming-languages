@@ -70,6 +70,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [TAMGU](https://github.com/naver/tamgu) - FIL programming language: Functional, Imperative, Logical all in one for annotation and data augmentation.
 - [Clio](https://github.com/clio-lang/clio) - Functional, parallel, distributed programming language. ([Web](https://clio-lang.org/))
 - [morloc](https://github.com/morloc-project/morloc) - Typed, polyglot, functional language.
+- [Hemlock](https://github.com/BranchTaken/Hemlock) - Synthesizes the expressive type and module systems of ML-family languages, a unified parametric effects/mutability/type system, and the shared-nothing message-passing parallelism of Erlang.
 
 ## Lisp
 
@@ -271,6 +272,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [SourcePawn](https://github.com/alliedmodders/sourcepawn) - Small and fast typed language for embedding in host applications.
 - [Austral](https://github.com/austral/austral) - Systems language with linear types.
 - [Kara](https://github.com/1whatleytay/kara) - Statically typed, LLVM-based programming language. It's designed to be fast and easy to use.
+- [BlazeX](https://github.com/BlazifyOrg/blazex) - AOT compiled object oriented programming language.
 
 ## Related
 
