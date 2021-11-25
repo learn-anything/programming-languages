@@ -273,6 +273,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Austral](https://github.com/austral/austral) - Systems language with linear types.
 - [Kara](https://github.com/1whatleytay/kara) - Statically typed, LLVM-based programming language. It's designed to be fast and easy to use.
 - [BlazeX](https://github.com/BlazifyOrg/blazex) - AOT compiled object oriented programming language.
+- [nullc](https://github.com/WheretIB/nullc) - Fast C-like programming language with advanced features. ([HN](https://news.ycombinator.com/item?id=29342301))
 
 ## Related
 
