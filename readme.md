@@ -102,6 +102,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Swift](https://github.com/apple/swift) - General-purpose, multi-paradigm, compiled programming language.
 - [TypeScript](https://github.com/Microsoft/TypeScript) - Strict syntactical superset of JavaScript that adds optional static typing to the language.
 - [Ring](https://github.com/ring-lang/ring) - Innovative and practical general-purpose multi-paradigm language.
+- [Hascal](https://github.com/hascal/hascal) - General purpose designed to build optimal, maintainable, reliable and efficient software.
 
 ## Funny
 
