@@ -71,6 +71,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Clio](https://github.com/clio-lang/clio) - Functional, parallel, distributed programming language. ([Web](https://clio-lang.org/))
 - [morloc](https://github.com/morloc-project/morloc) - Typed, polyglot, functional language.
 - [Hemlock](https://github.com/BranchTaken/Hemlock) - Synthesizes the expressive type and module systems of ML-family languages, a unified parametric effects/mutability/type system, and the shared-nothing message-passing parallelism of Erlang.
+- [Tao](https://github.com/zesterer/tao) - Statically-typed functional programming language.
 
 ## Lisp
 
@@ -274,6 +275,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Kara](https://github.com/1whatleytay/kara) - Statically typed, LLVM-based programming language. It's designed to be fast and easy to use.
 - [BlazeX](https://github.com/BlazifyOrg/blazex) - AOT compiled object oriented programming language.
 - [nullc](https://github.com/WheretIB/nullc) - Fast C-like programming language with advanced features. ([HN](https://news.ycombinator.com/item?id=29342301))
+- [Val](https://github.com/val-lang/val) - Open source, general-purpose programming language designed around on the concept of (mutable) value semantics.
 
 ## Related
 
