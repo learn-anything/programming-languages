@@ -103,6 +103,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Swift](https://github.com/apple/swift) - General-purpose, multi-paradigm, compiled programming language.
 - [TypeScript](https://github.com/Microsoft/TypeScript) - Strict syntactical superset of JavaScript that adds optional static typing to the language.
 - [Ring](https://github.com/ring-lang/ring) - Innovative and practical general-purpose multi-paradigm language.
+- [Ante](http://antelang.org/) - Low-level functional language for exploring refinement types, lifetime inference, and other fun features. ([Code](https://github.com/jfecher/ante))
 
 ## Funny
 
@@ -276,6 +277,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [BlazeX](https://github.com/BlazifyOrg/blazex) - AOT compiled object oriented programming language.
 - [nullc](https://github.com/WheretIB/nullc) - Fast C-like programming language with advanced features. ([HN](https://news.ycombinator.com/item?id=29342301))
 - [Val](https://github.com/val-lang/val) - Open source, general-purpose programming language designed around on the concept of (mutable) value semantics.
+- [Cotowali](https://github.com/cotowali/cotowali) - Statically typed scripting language that transpile into POSIX sh.
 
 ## Related
 
