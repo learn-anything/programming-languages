@@ -278,6 +278,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [nullc](https://github.com/WheretIB/nullc) - Fast C-like programming language with advanced features. ([HN](https://news.ycombinator.com/item?id=29342301))
 - [Val](https://github.com/val-lang/val) - Open source, general-purpose programming language designed around on the concept of (mutable) value semantics.
 - [Cotowali](https://github.com/cotowali/cotowali) - Statically typed scripting language that transpile into POSIX sh.
+- [Hascal](https://github.com/hascal/hascal) - General purpose and open source programming language designed to build optimal, maintainable, reliable and efficient software.
 
 ## Related
 
