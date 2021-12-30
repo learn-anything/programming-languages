@@ -279,6 +279,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Val](https://github.com/val-lang/val) - Open source, general-purpose programming language designed around on the concept of (mutable) value semantics.
 - [Cotowali](https://github.com/cotowali/cotowali) - Statically typed scripting language that transpile into POSIX sh.
 - [Hascal](https://github.com/hascal/hascal) - General purpose and open source programming language designed to build optimal, maintainable, reliable and efficient software.
+- [Dictu](https://github.com/dictu-lang/Dictu) - High-level dynamically typed, multi-paradigm, interpreted programming language. ([Docs](https://dictu-lang.com/))
 
 ## Related
 
