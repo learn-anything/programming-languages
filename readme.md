@@ -72,6 +72,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [morloc](https://github.com/morloc-project/morloc) - Typed, polyglot, functional language.
 - [Hemlock](https://github.com/BranchTaken/Hemlock) - Synthesizes the expressive type and module systems of ML-family languages, a unified parametric effects/mutability/type system, and the shared-nothing message-passing parallelism of Erlang.
 - [Tao](https://github.com/zesterer/tao) - Statically-typed functional programming language.
+- [Derw](https://github.com/eeue56/derw) - Elm-inspired language that transpiles to TypeScript.
 
 ## Lisp
 
