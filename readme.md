@@ -283,6 +283,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Hascal](https://github.com/hascal/hascal) - General purpose and open source programming language designed to build optimal, maintainable, reliable and efficient software.
 - [Dictu](https://github.com/dictu-lang/Dictu) - High-level dynamically typed, multi-paradigm, interpreted programming language. ([Docs](https://dictu-lang.com/))
 - [Shattuck](https://github.com/whoiscc/shattuck) - Rust-based script programming language.
+- [Volt](https://github.com/VoltLang/Volta) - Systems level programming language written in D.
 
 ## Related
 
