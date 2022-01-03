@@ -73,6 +73,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Hemlock](https://github.com/BranchTaken/Hemlock) - Synthesizes the expressive type and module systems of ML-family languages, a unified parametric effects/mutability/type system, and the shared-nothing message-passing parallelism of Erlang.
 - [Tao](https://github.com/zesterer/tao) - Statically-typed functional programming language.
 - [Derw](https://github.com/eeue56/derw) - Elm-inspired language that transpiles to TypeScript.
+- [Labrys](https://github.com/kit-ty-kate/labrys) - Toy language based on LLVM that implements the System Fω type-system.
 
 ## Lisp
 
