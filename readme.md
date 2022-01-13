@@ -4,6 +4,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 - [Functional](#functional)
 - [Lisp](#lisp)
+- [Object-Oriented](#object-oriented)
 - [Multi paradigm](#multi-paradigm)
 - [Funny](#funny)
 - [Other](#other)
@@ -90,6 +91,11 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Lux](https://github.com/LuxLang/lux) - Functional, statically-typed Lisp that will run on several platforms, such as the Java Virtual Machine and JavaScript interpreters.
 - [Liz](https://github.com/dundalek/liz) - Lisp-flavored general-purpose programming language (based on Zig).
 - [Ren](https://github.com/ren-lang/compiler) - Cleaner, clearer JavaScript. Modern scripting language for the Web.
+
+## Object-Oriented
+
+- [Pharo](https://github.com/pharo-project/pharo) - A pure object-oriented programming language and a powerful environment derived from Squeak Smalltalk.
+- [Smalltalk-72](https://smalltalkzoo.thechm.org/HOPL-St72.html) - A pure message-oriented programming language and its environment implemented in '72 to test Alan Kay's idea of "programming by messaging".
 
 ## Multi paradigm
 
