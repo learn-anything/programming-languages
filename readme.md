@@ -291,6 +291,8 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Dictu](https://github.com/dictu-lang/Dictu) - High-level dynamically typed, multi-paradigm, interpreted programming language. ([Docs](https://dictu-lang.com/))
 - [Shattuck](https://github.com/whoiscc/shattuck) - Rust-based script programming language.
 - [Volt](https://github.com/VoltLang/Volta) - Systems level programming language written in D.
+- [Paka](https://github.com/FastVM/paka)
+- [Yuescript](http://yuescript.org/doc/) - Dynamic language that compiles to Lua. ([Code](https://github.com/pigpigyyy/Yuescript))
 
 ## Related
 
