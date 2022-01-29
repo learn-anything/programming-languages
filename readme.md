@@ -293,6 +293,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Volt](https://github.com/VoltLang/Volta) - Systems level programming language written in D.
 - [Paka](https://github.com/FastVM/paka)
 - [Yuescript](http://yuescript.org/doc/) - Dynamic language that compiles to Lua. ([Code](https://github.com/pigpigyyy/Yuescript))
+- [Luf](https://github.com/Luukdegram/luf) - Statically typed, embeddable, scripting language written in Zig.
 
 ## Related
 
