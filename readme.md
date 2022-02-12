@@ -75,6 +75,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Tao](https://github.com/zesterer/tao) - Statically-typed functional programming language.
 - [Derw](https://github.com/eeue56/derw) - Elm-inspired language that transpiles to TypeScript.
 - [Labrys](https://github.com/kit-ty-kate/labrys) - Toy language based on LLVM that implements the System Fω type-system.
+- [lviv](https://github.com/kwantam/lviv) - Stack-based RPN functional programming language. Written in Scheme.
 
 ## Lisp
 
@@ -150,7 +151,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [ThinScript](https://github.com/evanw/thinscript) - Low-level programming language inspired by TypeScript.
 - [Makam](https://github.com/astampoulis/makam) - Tool for rapid language prototyping.
 - [fe](https://github.com/rxi/fe) - Tiny, embeddable language implemented in ANSI C. ([HN](https://news.ycombinator.com/item?id=22785137))
-- [Ceu](https://github.com/ceu-lang/ceu) - Reactive language that aims to offer a higher-level and safer alternative to C.
+- [Ceu](https://github.com/ceu-lang/ceu) - Reactive language that aims to offer a higher-level and safer alternative to C. ([Web](http://www.ceu-lang.org/))
 - [Monkey in Go](https://github.com/bradford-hamilton/monkey-lang)
 - [Monkey in Rust](https://github.com/bradford-hamilton/monkey_lang_rust)
 - [Monkey in TypeScript](https://github.com/bradford-hamilton/monkey_lang_rust)
