@@ -299,6 +299,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Basil](https://github.com/basilTeam/basil) - Fast and flexible language exploring partial evaluation, context-sensitive parsing, and metaprogramming. Compiles JIT or AOT to native code.
 - [Makeshift](https://github.com/MasterQ32/makeshift) - Programming language that was designed to bootstrap the Ashet Home Computer.
 - [CUP](https://github.com/mustafaquraish/cup) - Simple, C-like programming language.
+- [Hare](https://harelang.org/) - Systems programming language designed to be simple, stable, and robust. ([Code](https://sr.ht/~sircmpwn/hare/))
 
 ## Related
 
