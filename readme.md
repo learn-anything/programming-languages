@@ -300,6 +300,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Makeshift](https://github.com/MasterQ32/makeshift) - Programming language that was designed to bootstrap the Ashet Home Computer.
 - [CUP](https://github.com/mustafaquraish/cup) - Simple, C-like programming language.
 - [Hare](https://harelang.org/) - Systems programming language designed to be simple, stable, and robust. ([Code](https://sr.ht/~sircmpwn/hare/))
+- [Hazure](https://github.com/azur1s/hazure) - ML-Inspired programming language that transpiles to Typescript.
 
 ## Related
 
