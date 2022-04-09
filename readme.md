@@ -77,6 +77,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Labrys](https://github.com/kit-ty-kate/labrys) - Toy language based on LLVM that implements the System Fω type-system.
 - [lviv](https://github.com/kwantam/lviv) - Stack-based RPN functional programming language. Written in Scheme.
 - [lambda-ski](https://github.com/thma/lambda-ski) - Small functional language with a combinator based graph-reduction machine.
+- [Ditto](https://github.com/ditto-lang/ditto) - Functional, statically typed, and pure.
 
 ## Lisp
 
