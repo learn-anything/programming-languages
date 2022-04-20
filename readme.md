@@ -304,6 +304,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Hare](https://harelang.org/) - Systems programming language designed to be simple, stable, and robust. ([Code](https://sr.ht/~sircmpwn/hare/))
 - [Hazure](https://github.com/azur1s/hazure) - ML-Inspired programming language that transpiles to Typescript.
 - [Neptune](https://github.com/Srinivasa314/neptune-lang) - Fast, concurrent and embeddable scripting language.
+- [Gwion](https://github.com/Gwion/Gwion) - Strongly-timed language aimed at music creation. Heavily inspired by ChucK.
 
 ## Related
 
