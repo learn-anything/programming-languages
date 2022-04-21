@@ -125,6 +125,8 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 ## Other
 
+
+- [Cognate](https://github.com/stavromulabeta/cognate) - Quasi-concatenative stack language that uses embedded comments to read like English prose.
 - [RaptorJIT](https://github.com/raptorjit/raptorjit) - Dynamic language for system programming (LuaJIT fork).
 - [Zig](https://github.com/zig-lang/zig) - Robust, optimal, and clear programming language.
 - [Tengo](https://github.com/d5/tengo) - Fast script language for Go.
