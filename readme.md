@@ -78,6 +78,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [lviv](https://github.com/kwantam/lviv) - Stack-based RPN functional programming language. Written in Scheme.
 - [lambda-ski](https://github.com/thma/lambda-ski) - Small functional language with a combinator based graph-reduction machine.
 - [Ditto](https://github.com/ditto-lang/ditto) - Functional, statically typed, and pure.
+- [Zilch](https://github.com/zilch-lang/zilch) - Statically-typed, low-level, functional programming language with some focus on runtime performance.
 
 ## Lisp
 
@@ -305,6 +306,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Hazure](https://github.com/azur1s/hazure) - ML-Inspired programming language that transpiles to Typescript.
 - [Neptune](https://github.com/Srinivasa314/neptune-lang) - Fast, concurrent and embeddable scripting language.
 - [Gwion](https://github.com/Gwion/Gwion) - Strongly-timed language aimed at music creation. Heavily inspired by ChucK.
+- [Mech](https://github.com/mech-lang/mech) - Language for developing data-driven, reactive systems like animations, games, and robots. ([Web](http://mech-lang.org/))
 
 ## Related
 
