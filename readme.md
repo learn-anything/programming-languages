@@ -307,6 +307,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Neptune](https://github.com/Srinivasa314/neptune-lang) - Fast, concurrent and embeddable scripting language.
 - [Gwion](https://github.com/Gwion/Gwion) - Strongly-timed language aimed at music creation. Heavily inspired by ChucK.
 - [Mech](https://github.com/mech-lang/mech) - Language for developing data-driven, reactive systems like animations, games, and robots. ([Web](http://mech-lang.org/))
+- [Tokay](https://tokay.dev/) - Imperative, procedural programming language dedicated to parsing and other text-processing tasks. ([Code](https://github.com/tokay-lang/tokay))
 
 ## Related
 
