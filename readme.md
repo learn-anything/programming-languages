@@ -148,7 +148,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [wenyan](https://wy-lang.org/) - Esoteric programming language that closely follows the grammar and tone of classical Chinese literature.
 - [Titan](https://github.com/titan-lang/titan) - New programming language, designed to be a statically-typed, ahead-of-time compiled sister language to Lua.
 - [Odin](https://github.com/odin-lang/Odin) - Fast, concise, readable, pragmatic and open sourced. It is designed with the intent of replacing C.
-- [Taichi](https://github.com/taichi-dev/taichi) - Productive programming language for portable, high-performance, sparse & differentiable computing.
+- [Taichi](https://github.com/taichi-dev/taichi) - Productive programming language for portable, high-performance, sparse & differentiable computing. ([Web](https://www.taichi-lang.org/))
 - [XL](https://github.com/c3d/xl) - Extensible programming language designed to accomodate a variety of programming needs with ease.
 - [ABS](https://github.com/abs-lang/abs) - Programming language that works best when you're scripting on your terminal.
 - [ThinScript](https://github.com/evanw/thinscript) - Low-level programming language inspired by TypeScript.
