@@ -117,7 +117,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Swift](https://github.com/apple/swift) - General-purpose, multi-paradigm, compiled programming language.
 - [TypeScript](https://github.com/Microsoft/TypeScript) - Strict syntactical superset of JavaScript that adds optional static typing to the language.
 - [Ring](https://github.com/ring-lang/ring) - Innovative and practical general-purpose multi-paradigm language.
-- [Ante](http://antelang.org/) - Low-level functional language for exploring refinement types, lifetime inference, and other fun features. ([Code](https://github.com/jfecher/ante))
+- [Ante](https://antelang.org/) - Low-level functional language for exploring refinement types, lifetime inference, and other fun features. ([Code](https://github.com/jfecher/ante)) ([HN](https://news.ycombinator.com/item?id=31775216))
 
 ## Funny
 
@@ -310,6 +310,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Mech](https://github.com/mech-lang/mech) - Language for developing data-driven, reactive systems like animations, games, and robots. ([Web](http://mech-lang.org/))
 - [Tokay](https://tokay.dev/) - Imperative, procedural programming language dedicated to parsing and other text-processing tasks. ([Code](https://github.com/tokay-lang/tokay))
 - [jakt](https://github.com/awesomekling/jakt) - Memory-safe systems programming language. Currently transpiles to C++.
+- [Wu](https://github.com/wu-lang/wu) - Practical game and data language. ([Docs](https://wu-lang.gitbook.io/guide/))
 
 ## Related
 
