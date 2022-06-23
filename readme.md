@@ -79,6 +79,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [lambda-ski](https://github.com/thma/lambda-ski) - Small functional language with a combinator based graph-reduction machine.
 - [Ditto](https://github.com/ditto-lang/ditto) - Functional, statically typed, and pure.
 - [Zilch](https://github.com/zilch-lang/zilch) - Statically-typed, low-level, functional programming language with some focus on runtime performance.
+- [Calypso](https://github.com/calypso-lang/calypso) - Mostly imperative language with some functional influences that is focused on flexibility and simplicity.
 
 ## Lisp
 
@@ -117,7 +118,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Swift](https://github.com/apple/swift) - General-purpose, multi-paradigm, compiled programming language.
 - [TypeScript](https://github.com/Microsoft/TypeScript) - Strict syntactical superset of JavaScript that adds optional static typing to the language.
 - [Ring](https://github.com/ring-lang/ring) - Innovative and practical general-purpose multi-paradigm language.
-- [Ante](https://antelang.org/) - Low-level functional language for exploring refinement types, lifetime inference, and other fun features. ([Code](https://github.com/jfecher/ante)) ([HN](https://news.ycombinator.com/item?id=31775216))
+- [Ante](https://antelang.org/) - Low-level functional language for exploring refinement types, lifetime inference, and other fun features. ([Code](https://github.com/jfecher/ante)) ([HN](https://news.ycombinator.com/item?id=31775216)) ([Lobsters](https://lobste.rs/s/02tu4z/ante_low_level_functional_language))
 
 ## Funny
 
