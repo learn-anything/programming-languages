@@ -96,6 +96,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Lux](https://github.com/LuxLang/lux) - Functional, statically-typed Lisp that will run on several platforms, such as the Java Virtual Machine and JavaScript interpreters.
 - [Liz](https://github.com/dundalek/liz) - Lisp-flavored general-purpose programming language (based on Zig).
 - [Ren](https://github.com/ren-lang/compiler) - Cleaner, clearer JavaScript. Modern scripting language for the Web.
+- [Hime](https://github.com/RMOlive/Hime) - A general programming language running on the JVM platform.
 
 ## Object-Oriented
 
