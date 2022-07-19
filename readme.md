@@ -316,6 +316,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Tokay](https://tokay.dev/) - Imperative, procedural programming language dedicated to parsing and other text-processing tasks. ([Code](https://github.com/tokay-lang/tokay))
 - [jakt](https://github.com/awesomekling/jakt) - Memory-safe systems programming language. Currently transpiles to C++.
 - [Wu](https://github.com/wu-lang/wu) - Practical game and data language. ([Docs](https://wu-lang.gitbook.io/guide/))
+- [Boson](https://github.com/Narasimha1997/boson-lang) - Hybrid programming language written in Rust.
 
 ## Related
 
