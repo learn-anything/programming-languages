@@ -129,7 +129,6 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 ## Other
 
-
 - [Cognate](https://github.com/stavromulabeta/cognate) - Quasi-concatenative stack language that uses embedded comments to read like English prose.
 - [RaptorJIT](https://github.com/raptorjit/raptorjit) - Dynamic language for system programming (LuaJIT fork).
 - [Zig](https://github.com/zig-lang/zig) - Robust, optimal, and clear programming language.
@@ -317,6 +316,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [jakt](https://github.com/awesomekling/jakt) - Memory-safe systems programming language. Currently transpiles to C++.
 - [Wu](https://github.com/wu-lang/wu) - Practical game and data language. ([Docs](https://wu-lang.gitbook.io/guide/))
 - [Boson](https://github.com/Narasimha1997/boson-lang) - Hybrid programming language written in Rust.
+- [Tau](https://github.com/NicoNex/tau) - Open source interpreted programming language designed to be minimal, fast and efficient.
 
 ## Related
 
