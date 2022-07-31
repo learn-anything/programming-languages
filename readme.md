@@ -100,6 +100,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 ## Object-Oriented
 
+- [C#](https://github.com/dotnet/csharplang) - C-like Object Oriented Language - COOL
 - [Pharo](https://github.com/pharo-project/pharo) - A pure object-oriented programming language and a powerful environment derived from Squeak Smalltalk.
 - [Smalltalk-72](https://smalltalkzoo.thechm.org/HOPL-St72.html) - A pure message-oriented programming language and its environment implemented in '72 to test Alan Kay's idea of "programming by messaging".
 - [Inko](https://github.com/YorickPeterse/inko) - Statically-typed, safe, object-oriented programming languages for writing concurrent programs.
