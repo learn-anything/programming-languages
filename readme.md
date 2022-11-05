@@ -97,6 +97,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Liz](https://github.com/dundalek/liz) - Lisp-flavored general-purpose programming language (based on Zig).
 - [Ren](https://github.com/ren-lang/compiler) - Cleaner, clearer JavaScript. Modern scripting language for the Web.
 - [Hime](https://github.com/hime-lang/Hime) - A general programming language running on the JVM platform.
+- [Emacs Lisp](https://www.gnu.org/software/emacs/manual/html_node/eintr/index.html) - dialect of the Lisp programming language used as a scripting language by Emacs with some later influence from Common Lisp. Created by GNU it supports imperative and functional programming methods.
 
 ## Object-Oriented
 
