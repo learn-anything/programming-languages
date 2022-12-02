@@ -319,6 +319,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Boson](https://github.com/Narasimha1997/boson-lang) - Hybrid programming language written in Rust.
 - [Tau](https://github.com/NicoNex/tau) - Open source interpreted programming language designed to be minimal, fast and efficient.
 - [Husky](https://github.com/ancient-software/husky) - Programming language designed for many difficult tasks which haven't yet been seen as programmable at all.
+- [Scale](https://github.com/StonkDragon/Scale) - Open Source stack-based concatenative programming language.
 
 ## Related
 
