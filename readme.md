@@ -320,6 +320,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Tau](https://github.com/NicoNex/tau) - Open source interpreted programming language designed to be minimal, fast and efficient.
 - [Husky](https://github.com/ancient-software/husky) - Programming language designed for many difficult tasks which haven't yet been seen as programmable at all.
 - [Scale](https://github.com/StonkDragon/Scale) - Open Source stack-based concatenative programming language.
+- [Hook](https://github.com/fabiosvm/hook-lang) - Cross-platform scripting language with a C-like syntax, dynamic typing, mutable value semantics approach, and memory management through reference counting.
 
 ## Related
 
