@@ -106,7 +106,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Inko](https://github.com/YorickPeterse/inko) - Statically-typed, safe, object-oriented programming languages for writing concurrent programs.
 
 ## Multi paradigm
-
+- [Ada](https://ada-lang.io/) - General-purpose, strongly typed, performant, readable and safe language.
 - [C](<http://en.wikipedia.org/wiki/C_(programming_language)>) - General-purpose, imperative, supporting structured programming, lexical variable scope and recursion, while a static type system prevents many unintended operations.
 - [Chaos](https://github.com/chaos-lang/chaos) - Strongly typed, dynamic yet compilable, test-oriented procedural programming language that achieves zero cyclomatic complexity. ([HN](https://news.ycombinator.com/item?id=22940265))
 - [D](https://dlang.org/) - General-purpose programming language with static typing, systems-level access, and C-like syntax.
