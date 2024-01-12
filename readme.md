@@ -131,18 +131,30 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 ## Other
 
 - [ABS](https://github.com/abs-lang/abs) - Programming language that works best when you're scripting on your terminal.
+- [Alan](https://github.com/alantech/alan) - Programming language that does concurrency for you and can thus separate how the software is written from how it runs.
 - [Beef](https://github.com/beefytech/Beef) - Open source performance-oriented compiled programming language which has been built hand-in-hand with its IDE environment.
 - [Bolt](https://github.com/mukul-rathi/bolt) - Research language with finer-grained concurrency than Rust. ([HN](https://news.ycombinator.com/item?id=23122973))
 - [Bosque](https://github.com/Microsoft/BosqueLanguage) - Experiment in regularized design for a machine assisted rapid and reliable software development lifecycle. ([HN](https://news.ycombinator.com/item?id=23175280))
+- [Caledon](https://github.com/mmirman/caledon) - Dependently typed, polymorphic, higher order logic programming language.
 - [Ceu](https://github.com/ceu-lang/ceu) - Reactive language that aims to offer a higher-level and safer alternative to C. ([Web](http://www.ceu-lang.org/))
 - [Ciao](https://github.com/ciao-lang/ciao) - Programming language that builds up from a logic-based simple kernel, and is designed to be extensible and modular.
 - [Clay](https://github.com/jckarter/clay) - Programming language designed for Generic Programming.
 - [Cognate](https://github.com/stavromulabeta/cognate) - Quasi-concatenative stack language that uses embedded comments to read like English prose.
+- [Compose](https://github.com/samskivert/compose) - Experimental programming language. It aims to be teachable, scalable, modern, powerful & precise.
+- [Concurnas](https://concurnas.com/) - Open source JVM programming language designed for building reliable, scalable, high performance concurrent, distributed and parallel systems. ([HN](https://news.ycombinator.com/item?id=23321096))
 - [Cone](https://github.com/jondgoodwin/cone) - Fast, fit, friendly, and safe systems programming language. ([Web](https://cone.jondgoodwin.com/))
 - [DaCE](https://github.com/spcl/dace) - Data-Centric Parallel Programming.
+- [daScript](https://dascript.org/) - High-performance statically strong typed scripting language. ([HN](https://news.ycombinator.com/item?id=24166505))
+- [Ditto](https://github.com/ditto/ditto) - Super Kawaii Dependently Typed Programming Language.
+- [Ein](https://github.com/ein-lang/ein) - Functional programming language for scalable development.
+- [Ella](https://github.com/lukechu10/ellalang) - Computer programming language interpreter written in Rust.
+- [Enso](https://github.com/enso-org/ide) - Visual and textual functional programming language.
 - [Factor](https://factorcode.org/) - Practical stack language. ([Lobsters](https://lobste.rs/s/sv9jw7/factor_programming_language))
 - [fe](https://github.com/rxi/fe) - Tiny, embeddable language implemented in ANSI C. ([HN](https://news.ycombinator.com/item?id=22785137))
 - [Felix](https://github.com/felix-lang/felix) - Advanced, statically typed, high performance scripting language with native C++ embedding.
+- [Gosu](https://gosu-lang.github.io/) - Pragmatic language for the JVM. ([Code](https://github.com/gosu-lang/gosu-lang))
+- [Hugorm](https://github.com/nilq/hugorm) - Mission-critical scripting language.
+- [\_hyperscript](https://github.com/bigskysoftware/_hyperscript) - Small scripting language for the web.
 - [Jai](https://github.com/BSVino/JaiPrimer/blob/master/JaiPrimer.md) - High-level programming language developed by Jonathan Blow.
 - [Lobster](http://strlen.com/lobster/) - General purpose stand-alone programming language that comes with a built-in library suitable for making games and other graphical things.
 - [Luna](https://luna-lang.org/) - Data processing and visualization environment.
@@ -157,22 +169,32 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Mu](https://github.com/akkartik/mu) - Minimal-dependency hobbyist computing stack.
 - [Mun](https://github.com/mun-lang/mun) - Programming language empowering creation through iteration.
 - [Muon](https://github.com/nickmqb/muon) - Modern low-level programming language.
+- [Oak](https://github.com/adam-mcdaniel/oakc) - Portable programming language with an compact intermediate representation.
 - [Odin](https://github.com/odin-lang/Odin) - Fast, concise, readable, pragmatic and open sourced. It is designed with the intent of replacing C.
 - [Pointless](https://github.com/pointless-lang/pointless) - Scripting language for learning and fun. ([Web](https://ptls.dev/))
 - [Pony](https://www.ponylang.io/) - Open-source, object-oriented, actor-model, capabilities-secure, high-performance programming language. ([Code](https://github.com/ponylang/ponyc))
 - [PowerShell](https://github.com/PowerShell/PowerShell) - Cross-platform strongly dynamic typed object-based with functional features automation and configuration language.
+- [Pyret](https://www.pyret.org/) - Python like scripting language. ([Code](https://github.com/brownplt/pyret-lang))
+- [Pyxell](https://github.com/adamsol/Pyxell) - Multi-paradigm, statically typed programming language, compiled to machine code via C++. ([Docs](https://www.pyxell.org/docs/manual.html))
 - [RaptorJIT](https://github.com/raptorjit/raptorjit) - Dynamic language for system programming (LuaJIT fork).
 - [Red](https://github.com/red/red) - Strongly inspired by Rebol, but with a broader field of usage thanks to its native-code compiler, from system programming to high-level scripting and cross-platform reactive GUI. ([Web](https://www.red-lang.org/p/about.html))
+- [Rhai](https://github.com/jonathandturner/rhai) - Embedded scripting language for Rust.
+- [Self](https://selflanguage.org/) - Prototype-based dynamic object-oriented programming language, environment, and virtual machine. ([Code](https://github.com/russellallen/self))
 - [Skip](https://github.com/skiplang/skip) - Programming language to skip the things you have already computed.
 - [Smudge](https://github.com/smudgelang/smudge) - Domain-specific language for state machines.
 - [StarShip](https://github.com/larsaugustin/StarShip) - Interpreted, strongly typed, and functional programming language written in Swift.
 - [Taichi](https://github.com/taichi-dev/taichi) - Productive programming language for portable, high-performance, sparse & differentiable computing. ([Web](https://www.taichi-lang.org/))
 - [Tengo](https://github.com/d5/tengo) - Fast script language for Go.
 - [ThinScript](https://github.com/evanw/thinscript) - Low-level programming language inspired by TypeScript.
+- [tin](https://github.com/dflemstr/tin) - Statically structurally typed JIT-compiled programming language, mainly for embedding in other programs.
 - [Titan](https://github.com/titan-lang/titan) - New programming language, designed to be a statically-typed, ahead-of-time compiled sister language to Lua.
+- [TypeLang](https://github.com/ronami/typelang) - Tiny language interpreter implemented purely in TypeScript's type-system.
 - [V](https://vlang.io/) - Fast, safe, compiled language.
+- [Vale](https://vale.dev/) - Fast, safe, and easy programming language. It uses single ownership with constraint references for memory safety without garbage collection, and an emphasis on modern, readable syntax. ([Code](https://github.com/ValeLang/Vale)) ([HN](https://news.ycombinator.com/item?id=23865674)) ([HN 2](https://news.ycombinator.com/item?id=25160202))
 - [Verona](https://github.com/microsoft/verona) - Research programming language to explore the concept of concurrent ownership.
+- [vizh](https://github.com/TartanLlama/vizh) - Esoteric visual language that takes image files as input based on a multi-tape turing machine, designed for compatibility with C.
 - [Wasp](https://github.com/wasp-lang/wasp) - Web Application Specification Language. Extensible DSL (domain-specific language) for building modern web apps with less code. ([Web](https://wasp-lang.dev/)) ([HN](https://news.ycombinator.com/item?id=26091956))
+- [wax](https://github.com/LingDong-/wax) - Tiny language that transpiles to C, Java and TypeScript. ([Web](https://waxc.netlify.app/))
 - [wenyan](https://wy-lang.org/) - Esoteric programming language that closely follows the grammar and tone of classical Chinese literature.
 - [wlang](https://github.com/rsms/wlang)
 - [Wren](https://github.com/wren-lang/wren) - Small, fast, class-based concurrent scripting language. ([Web](https://wren.io/)) ([Lobsters](https://lobste.rs/s/7tzgrc/wren_classy_little_scripting_language))
@@ -181,9 +203,6 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Yatta](https://github.com/yatta-lang/yatta) - Minimalistic, opiniated, (strongly) dynamically typed, strict, functional programming language, with ML-like syntax, for GraalVM.
 - [Zeta](https://github.com/zeta-lang/zeta) - Scripting language designed for efficiency, enabling dynamic extension and modification of high performance software.
 - [Zig](https://github.com/zig-lang/zig) - Robust, optimal, and clear programming language.
-- [Concurnas](https://concurnas.com/) - Open source JVM programming language designed for building reliable, scalable, high performance concurrent, distributed and parallel systems. ([HN](https://news.ycombinator.com/item?id=23321096))
-- [Compose](https://github.com/samskivert/compose) - Experimental programming language. It aims to be teachable, scalable, modern, powerful & precise.
-- [Hugorm](https://github.com/nilq/hugorm) - Mission-critical scripting language.
 - [Lys](https://github.com/lys-lang/lys) - Language that compiles to WebAssembly.
 - [Radiance](https://github.com/shortercode/Radiance) - Simple language that compiles to WASM.
 - [FaCT](https://github.com/PLSysSec/FaCT) - Flexible and Constant Time Programming Language.
@@ -193,17 +212,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Inko](https://gitlab.com/inko-lang/inko) - Statically-typed, safe, object-oriented programming language for writing concurrent programs.
 - [Hamler](https://www.hamler-lang.org/) - Haskell-style functional programming language running on Erlang VM. ([Code](https://github.com/hamler-lang/hamler)) ([Article](https://www.emqx.io/news/open-source-functional-programming-language-hamler))
 - [Luster](https://github.com/kyren/luster) - Experimental Lua VM implemented in pure Rust.
-- [Caledon](https://github.com/mmirman/caledon) - Dependently typed, polymorphic, higher order logic programming language.
-- [Ditto](https://github.com/ditto/ditto) - Super Kawaii Dependently Typed Programming Language.
-- [Rhai](https://github.com/jonathandturner/rhai) - Embedded scripting language for Rust.
-- [Pyret](https://www.pyret.org/) - Python like scripting language. ([Code](https://github.com/brownplt/pyret-lang))
-- [Gosu](https://gosu-lang.github.io/) - Pragmatic language for the JVM. ([Code](https://github.com/gosu-lang/gosu-lang))
-- [Self](https://selflanguage.org/) - Prototype-based dynamic object-oriented programming language, environment, and virtual machine. ([Code](https://github.com/russellallen/self))
-- [Vale](https://vale.dev/) - Fast, safe, and easy programming language. It uses single ownership with constraint references for memory safety without garbage collection, and an emphasis on modern, readable syntax. ([Code](https://github.com/ValeLang/Vale)) ([HN](https://news.ycombinator.com/item?id=23865674)) ([HN 2](https://news.ycombinator.com/item?id=25160202))
-- [Oak](https://github.com/adam-mcdaniel/oakc) - Portable programming language with an compact intermediate representation.
 - [Luau](https://roblox.github.io/luau/) - Fast, small, safe, gradually typed embeddable scripting language derived from Lua. ([FAQ](https://gist.github.com/zeux/bb646a63c02ff2828117092036d2d174)) ([HN](https://news.ycombinator.com/item?id=24059432))
-- [daScript](https://dascript.org/) - High-performance statically strong typed scripting language. ([HN](https://news.ycombinator.com/item?id=24166505))
-- [Enso](https://github.com/enso-org/ide) - Visual and textual functional programming language.
 - [liblg](https://github.com/codr7/liblg) - Minimal stack-based VM. ([HN](https://news.ycombinator.com/item?id=24388687))
 - [Rune](https://github.com/rune-rs/rune/) - Embeddable dynamic programming language for Rust. ([Docs](https://rune-rs.github.io/rune/)) ([Lobsters](https://lobste.rs/s/9duro8/rune_programming_language))
 - [IntercalScript](https://github.com/Storyyeller/IntercalScript) - Systems programming language for the web that combines a simple and consistent syntax with a static type system that completely eliminates runtime type errors.
@@ -211,14 +220,10 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Elsa](https://github.com/elsaland/elsa) - Minimal, fast and secure QuickJS wrapper written in Go. ([HN](https://news.ycombinator.com/item?id=24626655))
 - [Shiika](https://github.com/yhara/shiika) - Statically-typed programming language. Looks like Ruby, but has explicit type annotations.
 - [Metamine](https://github.com/ymte/metamine) - Completely declarative programming language.
-- [\_hyperscript](https://github.com/bigskysoftware/_hyperscript) - Small scripting language for the web.
 - [Neon](https://neon-lang.dev/) - High-level, statically typed, garbage collected, imperative programming language intended for teaching and learning the craft of programming. ([Code](https://github.com/ghewgill/neon-lang))
 - [Myst](https://github.com/myst-lang/myst) - Structured, dynamic, general-purpose language.
 - [Arturo](https://github.com/arturo-lang/arturo) - Simple, modern and powerful interpreted programming language for efficient scripting. ([Web](http://arturo-lang.io/))
 - [Horse64](https://github.com/horse64/core.horse64.org) - Simple & versatile high-level programming language. ([Web](https://horse64.org/))
-- [wax](https://github.com/LingDong-/wax) - Tiny language that transpiles to C, Java and TypeScript. ([Web](https://waxc.netlify.app/))
-- [TypeLang](https://github.com/ronami/typelang) - Tiny language interpreter implemented purely in TypeScript's type-system.
-- [Pyxell](https://github.com/adamsol/Pyxell) - Multi-paradigm, statically typed programming language, compiled to machine code via C++. ([Docs](https://www.pyxell.org/docs/manual.html))
 - [Crunch](https://github.com/Kixiron/crunch-lang) - Strongly & statically typed systems level language focused on ease of use, portability and speed.
 - [Koto](https://github.com/koto-lang/koto) - Embeddable scripting language, written in Rust.
 - [Cant](https://github.com/darius/cant) - Programming language descended mainly from E and Scheme.
@@ -236,9 +241,6 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [q](https://github.com/akyoto/q) - Programming language focusing on performance and efficiency.
 - [Lama](https://github.com/JetBrains-Research/Lama) - Programming language developed by JetBrains Research for educational purposes as an exemplary language to introduce the domain of programming languages, compilers and tools.
 - [Ghost](https://github.com/ghost-language/ghost) - Small, class-based scripting language. ([Web](https://ghostlang.org/))
-- [Ein](https://github.com/ein-lang/ein) - Functional programming language for scalable development.
-- [Alan](https://github.com/alantech/alan) - Programming language that does concurrency for you and can thus separate how the software is written from how it runs.
-- [Ella](https://github.com/lukechu10/ellalang) - Computer programming language interpreter written in Rust.
 - [Nixt](https://github.com/Wafelack/nixt) - Interpreted lisp inspired programming language written in Rust.
 - [Manticore](https://github.com/ManticoreProject/manticore) - High-level parallel programming language aimed at general-purpose applications running on multi-core processors. ([Web](http://manticore.cs.uchicago.edu/))
 - [BIPLAN](https://github.com/gioblu/BIPLAN) - Byte coded Interpreted Programming language.
@@ -263,8 +265,6 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Hexagony](https://esolangs.org/wiki/Hexagony) - Two-dimensional stack-based programming language. ([Hexagony IDE](https://hexagony.net/))
 - [Kernel](https://web.cs.wpi.edu/~jshutt/kernel.html) - Conservative, Scheme-like dialect of Lisp in which everything is a first-class object.
 - [F--](https://github.com/raviqqe/fmm) - Uncurried minimal functional programming language.
-- [vizh](https://github.com/TartanLlama/vizh) - Esoteric visual language that takes image files as input based on a multi-tape turing machine, designed for compatibility with C.
-- [tin](https://github.com/dflemstr/tin) - Statically structurally typed JIT-compiled programming language, mainly for embedding in other programs.
 - [Flax](https://github.com/flax-lang/flax) - Level, general-purpose language with high level syntax and expressibility.
 - [Pocketlang](https://github.com/ThakeeNathees/pocketlang) - Small, fast and friendly language for scripting and embedding. ([Web](https://thakeenathees.github.io/pocketlang/)) ([HN](https://news.ycombinator.com/item?id=27588842))
 - [Ballerina](https://github.com/ballerina-platform/ballerina-lang) - Open-source programming language for the cloud that makes it easier to use, combine, and create network services. ([Web](https://ballerina.io/))
