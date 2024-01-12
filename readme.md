@@ -15,49 +15,49 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Accelerate](https://github.com/AccelerateHS/accelerate) - Embedded language for high-performance array computations.
 - [Agda](https://github.com/agda/agda) - Dependently typed functional language.
 - [Alice ML](https://github.com/aliceml/aliceml) - Functional programming language based on Standard ML, extended with support for concurrent, distributed, and constraint programming.
+- [Amulet](https://github.com/amuletml/amulet) - ML-like functional programming language.
 - [Amulet](https://github.com/tmpim/amulet) - Simple functional programming language in the ML tradition, with support for higher-rank parametric polymorphic types and row-polymorphic records, pattern matching with algebraic data types, and tail recursion elimination.
+- [Beluga](https://github.com/Beluga-lang/Beluga) - Functional programming language designed for reasoning about formal systems.
+- [Bosatsu](https://github.com/johnynek/bosatsu) - Python-ish pure and total functional programming language.
+- [Braid](https://github.com/joshsharp/braid) - Functional language with Reason-like syntax that compiles to Go.
+- [Bright ML](https://github.com/elpinal/bright-ml) - Statically-typed programming language based on "F-ing modules".
+- [cur](https://github.com/wilbowma/cur) - Powerful meta-programming for powerful types.
+- [Discus](https://github.com/discus-lang/ddc) - Experimental dialect of Haskell which investigates static typing and program transformation in the presence of computational effects.
 - [Eff](http://www.eff-lang.org/) - Functional language with handlers of not only exceptions, but also of other computational effects such as state or I/O.
+- [Enki](https://github.com/ReedOei/Enki) - Intended to be a logic language for teaching programming to people with no programming experience.
 - [Eta](https://github.com/typelead/eta) - Dialect of Haskell on the JVM.
 - [Eve](https://github.com/witheve/Eve) - Programming language based on years of research into building a human-first programming platform.
-- [F\*](https://fstar-lang.org/#introduction) - General-purpose functional programming language with effects aimed at program verification.
-- [Flix](https://github.com/flix/flix) - Statically typed functional- and logic programming language inspired by Scala, OCaml, F#, Haskell, and Datalog. ([Web](https://flix.dev/))
-- [Futhark](https://github.com/diku-dk/futhark) - Purely functional data-parallel programming language. Its optimising compiler is able to compile it to typically very performant GPU code.
-- [Haskell](https://www.haskell.org/) - Advanced, purely functional programming language.
-- [OCaml](https://ocaml.org/) - Industrial strength language supporting functional, imperative and object-oriented styles.
-- [Sixten](https://github.com/ollef/sixten) - Experimental functional language where all data is unboxed by default. Functional programming with fewer indirections.
-- [TiML](http://adam.chlipala.net/papers/TimlOOPSLA17/) - Functional Language for Practical Complexity Analysis with Invariants.
-- [Unison](https://github.com/unisonweb/unison) - Modern, statically-typed purely functional language, similar to Haskell, but with a unique ability to describe entire distributed systems with a single program.
 - [Expresso](https://github.com/willtim/Expresso) - Simple expressions language with polymorphic extensible row types. ([HN](https://news.ycombinator.com/item?id=23501981))
-- [Bosatsu](https://github.com/johnynek/bosatsu) - Python-ish pure and total functional programming language.
-- [Silt](https://github.com/silt-lang/silt) - An in-progress fast, dependently typed, functional programming language implemented in Swift.
-- [Granule](https://github.com/granule-project/granule) - Statically typed functional language with graded modal types for fine-grained program reasoning via types.
-- [LinearML](https://github.com/pikatchu/LinearML) - Functional language for parallel programming.
-- [Koka](https://github.com/koka-lang/koka) - Function-oriented language with effect inference.
-- [Beluga](https://github.com/Beluga-lang/Beluga) - Functional programming language designed for reasoning about formal systems.
-- [Gluon](https://github.com/gluon-lang/gluon) - Static, type inferred and embeddable language written in Rust.
-- [Ur/Web](https://github.com/urweb/urweb) - Implementation of a domain-specific functional programming language for web applications.
-- [Lasca](https://github.com/nau) - LLVM-based statically or dynamically typed strict functional programming language. Simplified OCaml if you will.
-- [Ko](https://github.com/kocircuit/kocircuit) - Generic type-safe language for concurrent, stateful, deadlock-free systems and protocol manipulations.
-- [Braid](https://github.com/joshsharp/braid) - Functional language with Reason-like syntax that compiles to Go.
-- [cur](https://github.com/wilbowma/cur) - Powerful meta-programming for powerful types.
-- [Ink](https://github.com/thesephist/ink) - Minimal programming language inspired by modern JavaScript and Go, with functional style. ([Ink By Example](https://inkbyexample.com/))
-- [Verve](https://github.com/tadeuzagallo/verve-lang) - Functional language for the working hacker.
-- [Enki](https://github.com/ReedOei/Enki) - Intended to be a logic language for teaching programming to people with no programming experience.
-- [Bright ML](https://github.com/elpinal/bright-ml) - Statically-typed programming language based on "F-ing modules".
-- [TopShell](https://github.com/topshell-language/topshell) - Purely functional, reactive scripting language.
-- [Amulet](https://github.com/amuletml/amulet) - ML-like functional programming language.
-- [Never](https://github.com/never-lang/never) - Statically typed, embedded functional programming language.
-- [Functa](https://github.com/dragostis/Functa) - Flexible, fully functional dynamic programming language.
-- [Pikelet](https://github.com/pikelet-lang/pikelet) - Small, functional, dependently typed programming language.
-- [Spiral](https://github.com/mrakgr/The-Spiral-Language) - Functional language with intensional polymorphism and first-class staging.
-- [Neut](https://github.com/u2zv1wx/neut) - Dependently-typed programming language based on the Calculus of Constructions. ([HN](https://news.ycombinator.com/item?id=23283880))
-- [Salt](https://github.com/discus-lang/salt) - Compilation target that functional programmers always wanted.
-- [Discus](https://github.com/discus-lang/ddc) - Experimental dialect of Haskell which investigates static typing and program transformation in the presence of computational effects.
-- [Keli](https://github.com/KeliLanguage/compiler) ([Motivations](https://keli-language.gitbook.io/doc/)) ([HN](https://news.ycombinator.com/item?id=24331635))
+- [F\*](https://fstar-lang.org/#introduction) - General-purpose functional programming language with effects aimed at program verification.
 - [F#](https://github.com/dotnet/fsharp) - Open-source, cross-platform functional programming language for .NET.
-- [Tyrade](https://github.com/willcrichton/tyrade) - Pure functional language for type-level programming in Rust.
-- [Unlambda](http://www.madore.org/~david/programs/unlambda/) - Minimal, "nearly pure" functional programming language invented by David Madore. Based on combinatory logic. ([Wiki](https://en.wikipedia.org/wiki/Unlambda))
 - [Fika](https://github.com/fika-lang/fika) - Statically typed functional programming language for the web.
+- [Flix](https://github.com/flix/flix) - Statically typed functional- and logic programming language inspired by Scala, OCaml, F#, Haskell, and Datalog. ([Web](https://flix.dev/))
+- [Functa](https://github.com/dragostis/Functa) - Flexible, fully functional dynamic programming language.
+- [Futhark](https://github.com/diku-dk/futhark) - Purely functional data-parallel programming language. Its optimising compiler is able to compile it to typically very performant GPU code.
+- [Gluon](https://github.com/gluon-lang/gluon) - Static, type inferred and embeddable language written in Rust.
+- [Granule](https://github.com/granule-project/granule) - Statically typed functional language with graded modal types for fine-grained program reasoning via types.
+- [Haskell](https://www.haskell.org/) - Advanced, purely functional programming language.
+- [Ink](https://github.com/thesephist/ink) - Minimal programming language inspired by modern JavaScript and Go, with functional style. ([Ink By Example](https://inkbyexample.com/))
+- [Keli](https://github.com/KeliLanguage/compiler) ([Motivations](https://keli-language.gitbook.io/doc/)) ([HN](https://news.ycombinator.com/item?id=24331635))
+- [Ko](https://github.com/kocircuit/kocircuit) - Generic type-safe language for concurrent, stateful, deadlock-free systems and protocol manipulations.
+- [Koka](https://github.com/koka-lang/koka) - Function-oriented language with effect inference.
+- [Lasca](https://github.com/nau) - LLVM-based statically or dynamically typed strict functional programming language. Simplified OCaml if you will.
+- [LinearML](https://github.com/pikatchu/LinearML) - Functional language for parallel programming.
+- [Neut](https://github.com/u2zv1wx/neut) - Dependently-typed programming language based on the Calculus of Constructions. ([HN](https://news.ycombinator.com/item?id=23283880))
+- [Never](https://github.com/never-lang/never) - Statically typed, embedded functional programming language.
+- [OCaml](https://ocaml.org/) - Industrial strength language supporting functional, imperative and object-oriented styles.
+- [Pikelet](https://github.com/pikelet-lang/pikelet) - Small, functional, dependently typed programming language.
+- [Salt](https://github.com/discus-lang/salt) - Compilation target that functional programmers always wanted.
+- [Silt](https://github.com/silt-lang/silt) - An in-progress fast, dependently typed, functional programming language implemented in Swift.
+- [Sixten](https://github.com/ollef/sixten) - Experimental functional language where all data is unboxed by default. Functional programming with fewer indirections.
+- [Spiral](https://github.com/mrakgr/The-Spiral-Language) - Functional language with intensional polymorphism and first-class staging.
+- [TiML](http://adam.chlipala.net/papers/TimlOOPSLA17/) - Functional Language for Practical Complexity Analysis with Invariants.
+- [TopShell](https://github.com/topshell-language/topshell) - Purely functional, reactive scripting language.
+- [Tyrade](https://github.com/willcrichton/tyrade) - Pure functional language for type-level programming in Rust.
+- [Unison](https://github.com/unisonweb/unison) - Modern, statically-typed purely functional language, similar to Haskell, but with a unique ability to describe entire distributed systems with a single program.
+- [Unlambda](http://www.madore.org/~david/programs/unlambda/) - Minimal, "nearly pure" functional programming language invented by David Madore. Based on combinatory logic. ([Wiki](https://en.wikipedia.org/wiki/Unlambda))
+- [Ur/Web](https://github.com/urweb/urweb) - Implementation of a domain-specific functional programming language for web applications.
+- [Verve](https://github.com/tadeuzagallo/verve-lang) - Functional language for the working hacker.
 - [Yeti](https://github.com/mth/yeti) - ML-like functional language for the JVM. ([Web](http://mth.github.io/yeti/))
 - [Nazo ML](https://github.com/cannorin/nml) - Experimental implementation of temporal-logic-based Hindley-Milner type system.
 - [Dynasty](https://github.com/aionescu/dynasty) - Interpreted, dynamically-typed, lazily evaluated, purely functional programming language.
