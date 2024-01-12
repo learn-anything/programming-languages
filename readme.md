@@ -17,32 +17,50 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Alice ML](https://github.com/aliceml/aliceml) - Functional programming language based on Standard ML, extended with support for concurrent, distributed, and constraint programming.
 - [Amulet](https://github.com/amuletml/amulet) - ML-like functional programming language.
 - [Amulet](https://github.com/tmpim/amulet) - Simple functional programming language in the ML tradition, with support for higher-rank parametric polymorphic types and row-polymorphic records, pattern matching with algebraic data types, and tail recursion elimination.
+- [Atto](https://github.com/zesterer/atto) - Insanely simple self-hosted functional programming language.
 - [Beluga](https://github.com/Beluga-lang/Beluga) - Functional programming language designed for reasoning about formal systems.
 - [Bosatsu](https://github.com/johnynek/bosatsu) - Python-ish pure and total functional programming language.
 - [Braid](https://github.com/joshsharp/braid) - Functional language with Reason-like syntax that compiles to Go.
 - [Bright ML](https://github.com/elpinal/bright-ml) - Statically-typed programming language based on "F-ing modules".
+- [Calypso](https://github.com/calypso-lang/calypso) - Mostly imperative language with some functional influences that is focused on flexibility and simplicity.
+- [Clio](https://github.com/clio-lang/clio) - Functional, parallel, distributed programming language. ([Web](https://clio-lang.org/))
 - [cur](https://github.com/wilbowma/cur) - Powerful meta-programming for powerful types.
+- [Derw](https://github.com/eeue56/derw) - Elm-inspired language that transpiles to TypeScript.
 - [Discus](https://github.com/discus-lang/ddc) - Experimental dialect of Haskell which investigates static typing and program transformation in the presence of computational effects.
+- [Ditto](https://github.com/ditto-lang/ditto) - Functional, statically typed, and pure.
+- [Dynasty](https://github.com/aionescu/dynasty) - Interpreted, dynamically-typed, lazily evaluated, purely functional programming language.
 - [Eff](http://www.eff-lang.org/) - Functional language with handlers of not only exceptions, but also of other computational effects such as state or I/O.
+- [Effekt](https://github.com/effekt-lang/effekt) - Research language with effect handlers and lightweight effect polymorphism. ([Web](https://effekt-lang.org/))
 - [Enki](https://github.com/ReedOei/Enki) - Intended to be a logic language for teaching programming to people with no programming experience.
 - [Eta](https://github.com/typelead/eta) - Dialect of Haskell on the JVM.
 - [Eve](https://github.com/witheve/Eve) - Programming language based on years of research into building a human-first programming platform.
 - [Expresso](https://github.com/willtim/Expresso) - Simple expressions language with polymorphic extensible row types. ([HN](https://news.ycombinator.com/item?id=23501981))
 - [F\*](https://fstar-lang.org/#introduction) - General-purpose functional programming language with effects aimed at program verification.
 - [F#](https://github.com/dotnet/fsharp) - Open-source, cross-platform functional programming language for .NET.
+- [Facet](https://github.com/facet-lang/facet) - Call-by-value functional language with algebraic effects, quantitative type theory, and staging.
 - [Fika](https://github.com/fika-lang/fika) - Statically typed functional programming language for the web.
 - [Flix](https://github.com/flix/flix) - Statically typed functional- and logic programming language inspired by Scala, OCaml, F#, Haskell, and Datalog. ([Web](https://flix.dev/))
 - [Functa](https://github.com/dragostis/Functa) - Flexible, fully functional dynamic programming language.
 - [Futhark](https://github.com/diku-dk/futhark) - Purely functional data-parallel programming language. Its optimising compiler is able to compile it to typically very performant GPU code.
 - [Gluon](https://github.com/gluon-lang/gluon) - Static, type inferred and embeddable language written in Rust.
+- [Grace](https://github.com/Gabriel439/grace) - Ready-to-fork interpreted, typed, and functional language.
 - [Granule](https://github.com/granule-project/granule) - Statically typed functional language with graded modal types for fine-grained program reasoning via types.
 - [Haskell](https://www.haskell.org/) - Advanced, purely functional programming language.
+- [Hemlock](https://github.com/BranchTaken/Hemlock) - Synthesizes the expressive type and module systems of ML-family languages, a unified parametric effects/mutability/type system, and the shared-nothing message-passing parallelism of Erlang.
 - [Ink](https://github.com/thesephist/ink) - Minimal programming language inspired by modern JavaScript and Go, with functional style. ([Ink By Example](https://inkbyexample.com/))
 - [Keli](https://github.com/KeliLanguage/compiler) ([Motivations](https://keli-language.gitbook.io/doc/)) ([HN](https://news.ycombinator.com/item?id=24331635))
 - [Ko](https://github.com/kocircuit/kocircuit) - Generic type-safe language for concurrent, stateful, deadlock-free systems and protocol manipulations.
 - [Koka](https://github.com/koka-lang/koka) - Function-oriented language with effect inference.
+- [Labrys](https://github.com/kit-ty-kate/labrys) - Toy language based on LLVM that implements the System Fω type-system.
+- [lambda-ski](https://github.com/thma/lambda-ski) - Small functional language with a combinator based graph-reduction machine.
 - [Lasca](https://github.com/nau) - LLVM-based statically or dynamically typed strict functional programming language. Simplified OCaml if you will.
+- [Lawvere](https://github.com/jameshaydon/lawvere) - Categorical programming language with effects.
+- [Leo](https://github.com/AleoHQ/leo) - Functional, statically-typed programming language built for writing private applications.
 - [LinearML](https://github.com/pikatchu/LinearML) - Functional language for parallel programming.
+- [lviv](https://github.com/kwantam/lviv) - Stack-based RPN functional programming language. Written in Scheme.
+- [Mlatu](https://github.com/brightly-salty/mlatu) - Statically typed, stack-based purely functional programming language designed for simplicity, speed, and safety.
+- [morloc](https://github.com/morloc-project/morloc) - Typed, polyglot, functional language.
+- [Nazo ML](https://github.com/cannorin/nml) - Experimental implementation of temporal-logic-based Hindley-Milner type system.
 - [Neut](https://github.com/u2zv1wx/neut) - Dependently-typed programming language based on the Calculus of Constructions. ([HN](https://news.ycombinator.com/item?id=23283880))
 - [Never](https://github.com/never-lang/never) - Statically typed, embedded functional programming language.
 - [OCaml](https://ocaml.org/) - Industrial strength language supporting functional, imperative and object-oriented styles.
@@ -51,6 +69,8 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Silt](https://github.com/silt-lang/silt) - An in-progress fast, dependently typed, functional programming language implemented in Swift.
 - [Sixten](https://github.com/ollef/sixten) - Experimental functional language where all data is unboxed by default. Functional programming with fewer indirections.
 - [Spiral](https://github.com/mrakgr/The-Spiral-Language) - Functional language with intensional polymorphism and first-class staging.
+- [TAMGU](https://github.com/naver/tamgu) - FIL programming language: Functional, Imperative, Logical all in one for annotation and data augmentation.
+- [Tao](https://github.com/zesterer/tao) - Statically-typed functional programming language.
 - [TiML](http://adam.chlipala.net/papers/TimlOOPSLA17/) - Functional Language for Practical Complexity Analysis with Invariants.
 - [TopShell](https://github.com/topshell-language/topshell) - Purely functional, reactive scripting language.
 - [Tyrade](https://github.com/willcrichton/tyrade) - Pure functional language for type-level programming in Rust.
@@ -59,54 +79,35 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Ur/Web](https://github.com/urweb/urweb) - Implementation of a domain-specific functional programming language for web applications.
 - [Verve](https://github.com/tadeuzagallo/verve-lang) - Functional language for the working hacker.
 - [Yeti](https://github.com/mth/yeti) - ML-like functional language for the JVM. ([Web](http://mth.github.io/yeti/))
-- [Nazo ML](https://github.com/cannorin/nml) - Experimental implementation of temporal-logic-based Hindley-Milner type system.
-- [Dynasty](https://github.com/aionescu/dynasty) - Interpreted, dynamically-typed, lazily evaluated, purely functional programming language.
-- [Atto](https://github.com/zesterer/atto) - Insanely simple self-hosted functional programming language.
-- [Lawvere](https://github.com/jameshaydon/lawvere) - Categorical programming language with effects.
-- [Leo](https://github.com/AleoHQ/leo) - Functional, statically-typed programming language built for writing private applications.
-- [Effekt](https://github.com/effekt-lang/effekt) - Research language with effect handlers and lightweight effect polymorphism. ([Web](https://effekt-lang.org/))
-- [Facet](https://github.com/facet-lang/facet) - Call-by-value functional language with algebraic effects, quantitative type theory, and staging.
-- [Mlatu](https://github.com/brightly-salty/mlatu) - Statically typed, stack-based purely functional programming language designed for simplicity, speed, and safety.
-- [Grace](https://github.com/Gabriel439/grace) - Ready-to-fork interpreted, typed, and functional language.
-- [TAMGU](https://github.com/naver/tamgu) - FIL programming language: Functional, Imperative, Logical all in one for annotation and data augmentation.
-- [Clio](https://github.com/clio-lang/clio) - Functional, parallel, distributed programming language. ([Web](https://clio-lang.org/))
-- [morloc](https://github.com/morloc-project/morloc) - Typed, polyglot, functional language.
-- [Hemlock](https://github.com/BranchTaken/Hemlock) - Synthesizes the expressive type and module systems of ML-family languages, a unified parametric effects/mutability/type system, and the shared-nothing message-passing parallelism of Erlang.
-- [Tao](https://github.com/zesterer/tao) - Statically-typed functional programming language.
-- [Derw](https://github.com/eeue56/derw) - Elm-inspired language that transpiles to TypeScript.
-- [Labrys](https://github.com/kit-ty-kate/labrys) - Toy language based on LLVM that implements the System Fω type-system.
-- [lviv](https://github.com/kwantam/lviv) - Stack-based RPN functional programming language. Written in Scheme.
-- [lambda-ski](https://github.com/thma/lambda-ski) - Small functional language with a combinator based graph-reduction machine.
-- [Ditto](https://github.com/ditto-lang/ditto) - Functional, statically typed, and pure.
 - [Zilch](https://github.com/zilch-lang/zilch) - Statically-typed, low-level, functional programming language with some focus on runtime performance.
-- [Calypso](https://github.com/calypso-lang/calypso) - Mostly imperative language with some functional influences that is focused on flexibility and simplicity.
 
 ## Lisp
 
-- [Common Lisp](https://lisp-lang.org/) - Modern, multi-paradigm, high-performance, compiled, ANSI-standardized, most prominent (along with Scheme) descendant of the long-running family of Lisp programming languages.
+- [Carp](https://github.com/carp-lang/Carp) - Statically typed lisp, without a GC, for real-time applications. ([Snippets](https://github.com/carpentry-org/snippets))
 - [Clojure](https://github.com/JeffBezanson/femtolisp) - Dynamic, general-purpose, combining the approachability and interactive development of a scripting language with an efficient and robust infrastructure for multithreaded programming.
+- [Common Lisp](https://lisp-lang.org/) - Modern, multi-paradigm, high-performance, compiled, ANSI-standardized, most prominent (along with Scheme) descendant of the long-running family of Lisp programming languages.
+- [Emacs Lisp](https://www.gnu.org/software/emacs/manual/html_node/eintr/index.html) - dialect of the Lisp programming language used as a scripting language by Emacs with some later influence from Common Lisp. Created by GNU it supports imperative and functional programming methods.
 - [femtolisp](https://github.com/JeffBezanson/femtolisp) - Lightweight, robust, scheme-like lisp implementation.
 - [Fennel](https://github.com/bakpakin/Fennel) - Lua Lisp Language.
-- [PicoLisp](https://picolisp.com/wiki/) - Simple and lightweight and encourages clean, concise code.
-- [Janet](https://github.com/janet-lang/janet) - Functional and imperative programming language and bytecode interpreter.
-- [Carp](https://github.com/carp-lang/Carp) - Statically typed lisp, without a GC, for real-time applications. ([Snippets](https://github.com/carpentry-org/snippets))
-- [Urn](https://urn-lang.com/) - Lisp implementation for Lua. ([Code](https://github.com/SquidDev/urn)) ([Lobsters](https://lobste.rs/s/qzubyo/urn_lisp_implementation_for_lua))
-- [llrl](https://github.com/yubrot/llrl) - Lisp-like programming language powered by Rust + LLVM.
-- [Ketos](https://github.com/murarth/ketos) - Lisp dialect scripting and extension language for Rust programs. ([HN](https://news.ycombinator.com/item?id=28616475))
-- [Lux](https://github.com/LuxLang/lux) - Functional, statically-typed Lisp that will run on several platforms, such as the Java Virtual Machine and JavaScript interpreters.
-- [Liz](https://github.com/dundalek/liz) - Lisp-flavored general-purpose programming language (based on Zig).
-- [Ren](https://github.com/ren-lang/compiler) - Cleaner, clearer JavaScript. Modern scripting language for the Web.
 - [Hime](https://github.com/hime-lang/Hime) - A general programming language running on the JVM platform.
-- [Emacs Lisp](https://www.gnu.org/software/emacs/manual/html_node/eintr/index.html) - dialect of the Lisp programming language used as a scripting language by Emacs with some later influence from Common Lisp. Created by GNU it supports imperative and functional programming methods.
+- [Janet](https://github.com/janet-lang/janet) - Functional and imperative programming language and bytecode interpreter.
+- [Ketos](https://github.com/murarth/ketos) - Lisp dialect scripting and extension language for Rust programs. ([HN](https://news.ycombinator.com/item?id=28616475))
+- [Liz](https://github.com/dundalek/liz) - Lisp-flavored general-purpose programming language (based on Zig).
+- [llrl](https://github.com/yubrot/llrl) - Lisp-like programming language powered by Rust + LLVM.
+- [Lux](https://github.com/LuxLang/lux) - Functional, statically-typed Lisp that will run on several platforms, such as the Java Virtual Machine and JavaScript interpreters.
+- [PicoLisp](https://picolisp.com/wiki/) - Simple and lightweight and encourages clean, concise code.
+- [Ren](https://github.com/ren-lang/compiler) - Cleaner, clearer JavaScript. Modern scripting language for the Web.
+- [Urn](https://urn-lang.com/) - Lisp implementation for Lua. ([Code](https://github.com/SquidDev/urn)) ([Lobsters](https://lobste.rs/s/qzubyo/urn_lisp_implementation_for_lua))
 
 ## Object-Oriented
 
+- [Inko](https://github.com/YorickPeterse/inko) - Statically-typed, safe, object-oriented programming languages for writing concurrent programs.
 - [Pharo](https://github.com/pharo-project/pharo) - A pure object-oriented programming language and a powerful environment derived from Squeak Smalltalk.
 - [Smalltalk-72](https://smalltalkzoo.thechm.org/HOPL-St72.html) - A pure message-oriented programming language and its environment implemented in '72 to test Alan Kay's idea of "programming by messaging".
-- [Inko](https://github.com/YorickPeterse/inko) - Statically-typed, safe, object-oriented programming languages for writing concurrent programs.
 
 ## Multi paradigm
 - [Ada](https://ada-lang.io/) - General-purpose, strongly typed, performant, readable and safe language.
+- [Ante](https://antelang.org/) - Low-level functional language for exploring refinement types, lifetime inference, and other fun features. ([Code](https://github.com/jfecher/ante)) ([HN](https://news.ycombinator.com/item?id=31775216)) ([Lobsters](https://lobste.rs/s/02tu4z/ante_low_level_functional_language))
 - [C](<http://en.wikipedia.org/wiki/C_(programming_language)>) - General-purpose, imperative, supporting structured programming, lexical variable scope and recursion, while a static type system prevents many unintended operations.
 - [Chaos](https://github.com/chaos-lang/chaos) - Strongly typed, dynamic yet compilable, test-oriented procedural programming language that achieves zero cyclomatic complexity. ([HN](https://news.ycombinator.com/item?id=22940265))
 - [D](https://dlang.org/) - General-purpose programming language with static typing, systems-level access, and C-like syntax.
@@ -117,16 +118,15 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Nim](https://github.com/nim-lang/nim) - Both high-level and systems-level language, with productivity of Python, performance of C and meta-programming of Lisp.
 - [Objective C](http://en.wikipedia.org/wiki/Objective-C) - General-purpose and object-oriented, adds Smalltalk-style messaging to the C programming language.
 - [Python](https://github.com/python/cpython) - Interpreted high-level language for general-purpose programming.
+- [Ring](https://github.com/ring-lang/ring) - Innovative and practical general-purpose multi-paradigm language.
 - [Swift](https://github.com/apple/swift) - General-purpose, multi-paradigm, compiled programming language.
 - [TypeScript](https://github.com/Microsoft/TypeScript) - Strict syntactical superset of JavaScript that adds optional static typing to the language.
-- [Ring](https://github.com/ring-lang/ring) - Innovative and practical general-purpose multi-paradigm language.
-- [Ante](https://antelang.org/) - Low-level functional language for exploring refinement types, lifetime inference, and other fun features. ([Code](https://github.com/jfecher/ante)) ([HN](https://news.ycombinator.com/item?id=31775216)) ([Lobsters](https://lobste.rs/s/02tu4z/ante_low_level_functional_language))
 
 ## Funny
 
-- [dogescript](https://github.com/dogescript/dogescript) - Wow so syntax very doge much future.
-- [C-plus-Equality](https://github.com/ErisBlastar/cplusequality) - Feminist programming language.
 - [ArnoldC](https://github.com/lhartikk/ArnoldC) - Programming language based on the one-liners of Arnold Schwarzenegger.
+- [C-plus-Equality](https://github.com/ErisBlastar/cplusequality) - Feminist programming language.
+- [dogescript](https://github.com/dogescript/dogescript) - Wow so syntax very doge much future.
 
 ## Other
 
