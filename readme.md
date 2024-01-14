@@ -5,6 +5,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Functional](#functional)
 - [Lisp](#lisp)
 - [Object-Oriented](#object-oriented)
+- [Explicit logical parallelism](#explicit-logical-parallelism)
 - [Multi paradigm](#multi-paradigm)
 - [Funny](#funny)
 - [Other](#other)
@@ -105,7 +106,17 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Pharo](https://github.com/pharo-project/pharo) - A pure object-oriented programming language and a powerful environment derived from Squeak Smalltalk.
 - [Smalltalk-72](https://smalltalkzoo.thechm.org/HOPL-St72.html) - A pure message-oriented programming language and its environment implemented in '72 to test Alan Kay's idea of "programming by messaging".
 
+## Explicit logical parallelism
+
+- [Ceu](https://github.com/ceu-lang/ceu) - Reactive language that aims to offer a higher-level and safer alternative to C. ([Web](http://www.ceu-lang.org/))
+- [Estérel](https://en.wikipedia.org/wiki/Esterel) - Synchronous reactive language that allows simple expression of parallelism and preemption and is based on logical instants and zero time hypothesis. ([Web](http://www-sop.inria.fr/meije/esterel/esterel-eng.html))
+- [FuncSug](https://github.com/cl4cnam/funcSug) - Language for GUI programming that allows program codes to follow the same order as the scenario.
+- [Pendulum](https://github.com/remyzorg/pendulum) - Synchronous reactive language (OCaml extension) to program reactive systems on the Web.
+- [Reactive ML](https://github.com/reactiveml/rml) - Synchronous reactive language that combines the temporal expressiveness of synchronous languages with the power of functional programming.([Web](https://reactiveml.org/))
+- [SugarCubes](https://github.com/LordManta/SugarCubesJS) - Synchronous (à la Boussinot) reactive language that allows to write reactive parallel/concurrent programs on top of sequential JavaScript.
+
 ## Multi paradigm
+
 - [Ada](https://ada-lang.io/) - General-purpose, strongly typed, performant, readable and safe language.
 - [Ante](https://antelang.org/) - Low-level functional language for exploring refinement types, lifetime inference, and other fun features. ([Code](https://github.com/jfecher/ante)) ([HN](https://news.ycombinator.com/item?id=31775216)) ([Lobsters](https://lobste.rs/s/02tu4z/ante_low_level_functional_language))
 - [C](<http://en.wikipedia.org/wiki/C_(programming_language)>) - General-purpose, imperative, supporting structured programming, lexical variable scope and recursion, while a static type system prevents many unintended operations.
@@ -153,7 +164,6 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Caledon](https://github.com/mmirman/caledon) - Dependently typed, polymorphic, higher order logic programming language.
 - [Cane](https://github.com/Jackojc/cane) - A small vector language designed for making beats with realtime MIDI.
 - [Cant](https://github.com/darius/cant) - Programming language descended mainly from E and Scheme.
-- [Ceu](https://github.com/ceu-lang/ceu) - Reactive language that aims to offer a higher-level and safer alternative to C. ([Web](http://www.ceu-lang.org/))
 - [Charity](http://pll.cpsc.ucalgary.ca/charity1/www/home.html) - Categorical programming language. ([Code](https://github.com/mietek/charity-lang))
 - [Ć](https://github.com/pfusik/cito) - Language which can be translated automatically to C, C++, C#, Java, JavaScript, Python, Swift, TypeScript and OpenCL C. ([HN](https://news.ycombinator.com/item?id=28805825))
 - [Ciao](https://github.com/ciao-lang/ciao) - Programming language that builds up from a logic-based simple kernel, and is designed to be extensible and modular.
