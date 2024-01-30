@@ -210,7 +210,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Hazure](https://github.com/azur1s/hazure) - ML-Inspired programming language that transpiles to Typescript.
 - [Hedy](https://github.com/Felienne/hedy) - Gradual programming language, which increases in syntactic elements level by level. ([Web](https://www.hedycode.com/))
 - [Hexagony](https://esolangs.org/wiki/Hexagony) - Two-dimensional stack-based programming language. ([Hexagony IDE](https://hexagony.net/))
-- [Hook](https://github.com/fabiosvm/hook-lang) - Cross-platform scripting language with a C-like syntax, dynamic typing, mutable value semantics approach, and memory management through reference counting.
+- [Hook](https://github.com/hook-lang/hook) - Cross-platform scripting language with a C-like syntax, dynamic typing, mutable value semantics approach, and memory management through reference counting.
 - [Horse64](https://github.com/horse64/core.horse64.org) - Simple & versatile high-level programming language. ([Web](https://horse64.org/))
 - [Hugorm](https://github.com/nilq/hugorm) - Mission-critical scripting language.
 - [Husky](https://github.com/ancient-software/husky) - Programming language designed for many difficult tasks which haven't yet been seen as programmable at all.
